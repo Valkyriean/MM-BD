@@ -29,7 +29,7 @@ parser.add_argument('--out_dir', default='attack4',
 args = parser.parse_args()
 
 
-device = 'cuda' if torch.cuda.is_available() else 'cpu'
+device = 'cuda' if torch.cuda.is_available() else 'mps'
 
 random.seed()
 out_dir = args.out_dir
@@ -61,7 +61,7 @@ testset = torchvision.datasets.CIFAR10(root='./data', train=False, download=True
 pattern = pattern_craft(trainset.__getitem__(0)[0].size())
 mask = mask_craft(pattern)
 for SC in range(10):
-    TC = (SC + 1)%10
+    TC = 0
     # Crafting training backdoor images
     ind_train = [i for i, label in enumerate(trainset.targets) if label==SC]
     ind_train = np.random.choice(ind_train, NUM_OF_ATTACKS, False)

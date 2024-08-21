@@ -1,0 +1,3071 @@
+----------------------------start training ------------------------------
+==> Preparing data..
+Files already downloaded and verified
+Files already downloaded and verified
+==> Preparing data..
+Files already downloaded and verified
+Files already downloaded and verified
+==> Building model..
+
+Epoch: 0
+Learning rate:  0.001
+Train ACC: 39.354
+Test ACC: 44.100
+Attack success rate: 6.960
+
+Epoch: 1
+Learning rate:  0.001
+Train ACC: 58.919
+Test ACC: 62.530
+Attack success rate: 44.490
+
+Epoch: 2
+Learning rate:  0.001
+Train ACC: 70.899
+Test ACC: 72.780
+Attack success rate: 61.190
+
+Epoch: 3
+Learning rate:  0.001
+Train ACC: 76.428
+Test ACC: 79.230
+Attack success rate: 70.830
+
+Epoch: 4
+Learning rate:  0.001
+Train ACC: 80.183
+Test ACC: 82.520
+Attack success rate: 72.980
+
+Epoch: 5
+Learning rate:  0.001
+Train ACC: 82.609
+Test ACC: 81.180
+Attack success rate: 75.030
+
+Epoch: 6
+Learning rate:  0.001
+Train ACC: 84.721
+Test ACC: 83.500
+Attack success rate: 77.820
+
+Epoch: 7
+Learning rate:  0.001
+Train ACC: 86.310
+Test ACC: 86.440
+Attack success rate: 82.330
+
+Epoch: 8
+Learning rate:  0.001
+Train ACC: 87.488
+Test ACC: 86.340
+Attack success rate: 83.070
+
+Epoch: 9
+Learning rate:  0.001
+Train ACC: 88.721
+Test ACC: 85.750
+Attack success rate: 82.630
+
+Epoch: 10
+Learning rate:  0.001
+Train ACC: 89.651
+Test ACC: 88.210
+Attack success rate: 83.090
+
+Epoch: 11
+Learning rate:  0.001
+Train ACC: 90.481
+Test ACC: 88.450
+Attack success rate: 85.410
+
+Epoch: 12
+Learning rate:  0.001
+Train ACC: 91.250
+Test ACC: 89.280
+Attack success rate: 85.930
+
+Epoch: 13
+Learning rate:  0.001
+Train ACC: 91.864
+Test ACC: 87.950
+Attack success rate: 84.930
+
+Epoch: 14
+Learning rate:  0.001
+Train ACC: 92.719
+Test ACC: 88.670
+Attack success rate: 85.100
+
+Epoch: 15
+Learning rate:  0.001
+Train ACC: 93.073
+Test ACC: 88.850
+Attack success rate: 86.120
+
+Epoch: 16
+Learning rate:  0.001
+Train ACC: 93.686
+Test ACC: 90.280
+Attack success rate: 87.480
+
+Epoch: 17
+Learning rate:  0.001
+Train ACC: 94.222
+Test ACC: 89.580
+Attack success rate: 86.370
+
+Epoch: 18
+Learning rate:  0.001
+Train ACC: 94.550
+Test ACC: 90.030
+Attack success rate: 87.050
+
+Epoch: 19
+Learning rate:  0.001
+Train ACC: 94.921
+Test ACC: 90.390
+Attack success rate: 87.930
+
+Epoch: 20
+Learning rate:  0.001
+Train ACC: 95.088
+Test ACC: 89.590
+Attack success rate: 85.070
+
+Epoch: 21
+Learning rate:  0.001
+Train ACC: 95.484
+Test ACC: 90.240
+Attack success rate: 86.270
+
+Epoch: 22
+Learning rate:  0.001
+Train ACC: 95.769
+Test ACC: 90.460
+Attack success rate: 87.530
+
+Epoch: 23
+Learning rate:  0.001
+Train ACC: 95.985
+Test ACC: 90.870
+Attack success rate: 88.240
+
+Epoch: 24
+Learning rate:  0.001
+Train ACC: 96.209
+Test ACC: 90.860
+Attack success rate: 87.570
+
+Epoch: 25
+Learning rate:  0.001
+Train ACC: 96.464
+Test ACC: 90.670
+Attack success rate: 88.200
+
+Epoch: 26
+Learning rate:  0.001
+Train ACC: 96.686
+Test ACC: 91.060
+Attack success rate: 87.510
+
+Epoch: 27
+Learning rate:  0.001
+Train ACC: 96.787
+Test ACC: 90.610
+Attack success rate: 87.430
+
+Epoch: 28
+Learning rate:  0.001
+Train ACC: 97.000
+Test ACC: 90.540
+Attack success rate: 88.000
+
+Epoch: 29
+Learning rate:  0.001
+Train ACC: 97.053
+Test ACC: 91.410
+Attack success rate: 88.830
+
+Epoch: 30
+Learning rate:  0.001
+Train ACC: 97.374
+Test ACC: 91.040
+Attack success rate: 88.730
+
+Epoch: 31
+Learning rate:  0.001
+Train ACC: 97.383
+Test ACC: 91.030
+Attack success rate: 88.640
+
+Epoch: 32
+Learning rate:  0.001
+Train ACC: 97.451
+Test ACC: 91.120
+Attack success rate: 86.320
+
+Epoch: 33
+Learning rate:  0.001
+Train ACC: 97.659
+Test ACC: 90.950
+Attack success rate: 87.740
+
+Epoch: 34
+Learning rate:  0.001
+Train ACC: 97.712
+Test ACC: 91.590
+Attack success rate: 88.670
+
+Epoch: 35
+Learning rate:  0.001
+Train ACC: 97.794
+Test ACC: 91.070
+Attack success rate: 88.390
+
+Epoch: 36
+Learning rate:  0.001
+Train ACC: 97.912
+Test ACC: 90.530
+Attack success rate: 87.780
+
+Epoch: 37
+Learning rate:  0.001
+Train ACC: 97.884
+Test ACC: 91.420
+Attack success rate: 87.770
+
+Epoch: 38
+Learning rate:  0.001
+Train ACC: 97.954
+Test ACC: 91.590
+Attack success rate: 89.300
+
+Epoch: 39
+Learning rate:  0.001
+Train ACC: 98.105
+Test ACC: 91.530
+Attack success rate: 87.820
+
+Epoch: 40
+Learning rate:  0.001
+Train ACC: 98.147
+Test ACC: 91.430
+Attack success rate: 88.960
+
+Epoch: 41
+Learning rate:  0.001
+Train ACC: 98.259
+Test ACC: 92.110
+Attack success rate: 89.270
+
+Epoch: 42
+Learning rate:  0.001
+Train ACC: 98.288
+Test ACC: 92.160
+Attack success rate: 89.050
+
+Epoch: 43
+Learning rate:  0.001
+Train ACC: 98.246
+Test ACC: 90.900
+Attack success rate: 88.640
+
+Epoch: 44
+Learning rate:  0.001
+Train ACC: 98.407
+Test ACC: 91.970
+Attack success rate: 89.320
+
+Epoch: 45
+Learning rate:  0.001
+Train ACC: 98.492
+Test ACC: 91.600
+Attack success rate: 89.150
+
+Epoch: 46
+Learning rate:  0.001
+Train ACC: 98.435
+Test ACC: 91.670
+Attack success rate: 88.550
+
+Epoch: 47
+Learning rate:  0.001
+Train ACC: 98.473
+Test ACC: 91.950
+Attack success rate: 89.400
+
+Epoch: 48
+Learning rate:  0.001
+Train ACC: 98.558
+Test ACC: 90.870
+Attack success rate: 88.320
+
+Epoch: 49
+Learning rate:  0.001
+Train ACC: 98.521
+Test ACC: 91.920
+Attack success rate: 89.480
+==> Preparing data..
+Files already downloaded and verified
+Files already downloaded and verified
+==> Preparing data..
+Files already downloaded and verified
+Files already downloaded and verified
+==> Building model..
+
+Epoch: 0
+Learning rate:  0.001
+Train ACC: 37.965
+Test ACC: 52.650
+Attack success rate: 5.340
+
+Epoch: 1
+Learning rate:  0.001
+Train ACC: 55.725
+Test ACC: 60.510
+Attack success rate: 42.600
+
+Epoch: 2
+Learning rate:  0.001
+Train ACC: 68.644
+Test ACC: 73.940
+Attack success rate: 65.530
+
+Epoch: 3
+Learning rate:  0.001
+Train ACC: 75.446
+Test ACC: 76.320
+Attack success rate: 66.650
+
+Epoch: 4
+Learning rate:  0.001
+Train ACC: 79.028
+Test ACC: 81.650
+Attack success rate: 72.300
+
+Epoch: 5
+Learning rate:  0.001
+Train ACC: 82.134
+Test ACC: 84.360
+Attack success rate: 76.060
+
+Epoch: 6
+Learning rate:  0.001
+Train ACC: 84.193
+Test ACC: 83.070
+Attack success rate: 77.000
+
+Epoch: 7
+Learning rate:  0.001
+Train ACC: 85.745
+Test ACC: 85.810
+Attack success rate: 82.540
+
+Epoch: 8
+Learning rate:  0.001
+Train ACC: 87.123
+Test ACC: 86.730
+Attack success rate: 83.260
+
+Epoch: 9
+Learning rate:  0.001
+Train ACC: 88.257
+Test ACC: 87.260
+Attack success rate: 84.110
+
+Epoch: 10
+Learning rate:  0.001
+Train ACC: 89.240
+Test ACC: 87.260
+Attack success rate: 84.120
+
+Epoch: 11
+Learning rate:  0.001
+Train ACC: 90.062
+Test ACC: 87.640
+Attack success rate: 85.230
+
+Epoch: 12
+Learning rate:  0.001
+Train ACC: 90.903
+Test ACC: 88.350
+Attack success rate: 86.050
+
+Epoch: 13
+Learning rate:  0.001
+Train ACC: 91.699
+Test ACC: 88.530
+Attack success rate: 85.600
+
+Epoch: 14
+Learning rate:  0.001
+Train ACC: 92.160
+Test ACC: 88.850
+Attack success rate: 85.680
+
+Epoch: 15
+Learning rate:  0.001
+Train ACC: 92.727
+Test ACC: 89.070
+Attack success rate: 86.140
+
+Epoch: 16
+Learning rate:  0.001
+Train ACC: 93.275
+Test ACC: 89.190
+Attack success rate: 85.570
+
+Epoch: 17
+Learning rate:  0.001
+Train ACC: 93.712
+Test ACC: 90.620
+Attack success rate: 87.960
+
+Epoch: 18
+Learning rate:  0.001
+Train ACC: 94.084
+Test ACC: 90.470
+Attack success rate: 87.520
+
+Epoch: 19
+Learning rate:  0.001
+Train ACC: 94.644
+Test ACC: 90.030
+Attack success rate: 87.490
+
+Epoch: 20
+Learning rate:  0.001
+Train ACC: 94.763
+Test ACC: 89.670
+Attack success rate: 86.890
+
+Epoch: 21
+Learning rate:  0.001
+Train ACC: 95.233
+Test ACC: 90.360
+Attack success rate: 88.810
+
+Epoch: 22
+Learning rate:  0.001
+Train ACC: 95.593
+Test ACC: 90.310
+Attack success rate: 88.210
+
+Epoch: 23
+Learning rate:  0.001
+Train ACC: 95.743
+Test ACC: 90.610
+Attack success rate: 87.790
+
+Epoch: 24
+Learning rate:  0.001
+Train ACC: 95.960
+Test ACC: 90.230
+Attack success rate: 88.010
+
+Epoch: 25
+Learning rate:  0.001
+Train ACC: 96.341
+Test ACC: 89.400
+Attack success rate: 86.900
+
+Epoch: 26
+Learning rate:  0.001
+Train ACC: 96.446
+Test ACC: 90.300
+Attack success rate: 88.300
+
+Epoch: 27
+Learning rate:  0.001
+Train ACC: 96.727
+Test ACC: 90.990
+Attack success rate: 88.200
+
+Epoch: 28
+Learning rate:  0.001
+Train ACC: 96.721
+Test ACC: 91.090
+Attack success rate: 87.650
+
+Epoch: 29
+Learning rate:  0.001
+Train ACC: 96.927
+Test ACC: 91.350
+Attack success rate: 88.690
+
+Epoch: 30
+Learning rate:  0.001
+Train ACC: 97.066
+Test ACC: 91.500
+Attack success rate: 89.800
+
+Epoch: 31
+Learning rate:  0.001
+Train ACC: 97.218
+Test ACC: 90.960
+Attack success rate: 88.450
+
+Epoch: 32
+Learning rate:  0.001
+Train ACC: 97.281
+Test ACC: 90.910
+Attack success rate: 87.570
+
+Epoch: 33
+Learning rate:  0.001
+Train ACC: 97.516
+Test ACC: 90.820
+Attack success rate: 89.550
+
+Epoch: 34
+Learning rate:  0.001
+Train ACC: 97.494
+Test ACC: 91.140
+Attack success rate: 89.400
+
+Epoch: 35
+Learning rate:  0.001
+Train ACC: 97.714
+Test ACC: 91.270
+Attack success rate: 89.340
+
+Epoch: 36
+Learning rate:  0.001
+Train ACC: 97.802
+Test ACC: 90.920
+Attack success rate: 89.520
+
+Epoch: 37
+Learning rate:  0.001
+Train ACC: 97.780
+Test ACC: 91.810
+Attack success rate: 88.800
+
+Epoch: 38
+Learning rate:  0.001
+Train ACC: 97.897
+Test ACC: 92.080
+Attack success rate: 90.260
+
+Epoch: 39
+Learning rate:  0.001
+Train ACC: 98.110
+Test ACC: 91.130
+Attack success rate: 89.110
+
+Epoch: 40
+Learning rate:  0.001
+Train ACC: 98.053
+Test ACC: 91.360
+Attack success rate: 89.230
+
+Epoch: 41
+Learning rate:  0.001
+Train ACC: 98.086
+Test ACC: 91.770
+Attack success rate: 89.740
+
+Epoch: 42
+Learning rate:  0.001
+Train ACC: 98.194
+Test ACC: 91.970
+Attack success rate: 89.450
+
+Epoch: 43
+Learning rate:  0.001
+Train ACC: 98.345
+Test ACC: 91.710
+Attack success rate: 89.210
+
+Epoch: 44
+Learning rate:  0.001
+Train ACC: 98.299
+Test ACC: 92.390
+Attack success rate: 90.550
+
+Epoch: 45
+Learning rate:  0.001
+Train ACC: 98.374
+Test ACC: 91.590
+Attack success rate: 89.460
+
+Epoch: 46
+Learning rate:  0.001
+Train ACC: 98.356
+Test ACC: 92.000
+Attack success rate: 89.040
+
+Epoch: 47
+Learning rate:  0.001
+Train ACC: 98.411
+Test ACC: 91.690
+Attack success rate: 89.410
+
+Epoch: 48
+Learning rate:  0.001
+Train ACC: 98.435
+Test ACC: 91.450
+Attack success rate: 88.770
+
+Epoch: 49
+Learning rate:  0.001
+Train ACC: 98.352
+Test ACC: 90.640
+Attack success rate: 88.730
+==> Preparing data..
+Files already downloaded and verified
+Files already downloaded and verified
+==> Preparing data..
+Files already downloaded and verified
+Files already downloaded and verified
+==> Building model..
+
+Epoch: 0
+Learning rate:  0.001
+Train ACC: 38.738
+Test ACC: 56.230
+Attack success rate: 3.980
+
+Epoch: 1
+Learning rate:  0.001
+Train ACC: 58.824
+Test ACC: 57.770
+Attack success rate: 46.020
+
+Epoch: 2
+Learning rate:  0.001
+Train ACC: 71.215
+Test ACC: 76.250
+Attack success rate: 66.770
+
+Epoch: 3
+Learning rate:  0.001
+Train ACC: 76.818
+Test ACC: 80.530
+Attack success rate: 72.900
+
+Epoch: 4
+Learning rate:  0.001
+Train ACC: 80.209
+Test ACC: 80.850
+Attack success rate: 76.390
+
+Epoch: 5
+Learning rate:  0.001
+Train ACC: 82.914
+Test ACC: 82.520
+Attack success rate: 77.120
+
+Epoch: 6
+Learning rate:  0.001
+Train ACC: 84.866
+Test ACC: 83.870
+Attack success rate: 80.340
+
+Epoch: 7
+Learning rate:  0.001
+Train ACC: 86.325
+Test ACC: 85.630
+Attack success rate: 81.030
+
+Epoch: 8
+Learning rate:  0.001
+Train ACC: 87.628
+Test ACC: 84.990
+Attack success rate: 83.290
+
+Epoch: 9
+Learning rate:  0.001
+Train ACC: 88.725
+Test ACC: 88.050
+Attack success rate: 85.180
+
+Epoch: 10
+Learning rate:  0.001
+Train ACC: 89.763
+Test ACC: 88.420
+Attack success rate: 85.500
+
+Epoch: 11
+Learning rate:  0.001
+Train ACC: 90.650
+Test ACC: 88.360
+Attack success rate: 85.520
+
+Epoch: 12
+Learning rate:  0.001
+Train ACC: 91.189
+Test ACC: 87.860
+Attack success rate: 84.670
+
+Epoch: 13
+Learning rate:  0.001
+Train ACC: 91.993
+Test ACC: 89.580
+Attack success rate: 86.540
+
+Epoch: 14
+Learning rate:  0.001
+Train ACC: 92.536
+Test ACC: 89.200
+Attack success rate: 86.130
+
+Epoch: 15
+Learning rate:  0.001
+Train ACC: 93.121
+Test ACC: 89.730
+Attack success rate: 87.620
+
+Epoch: 16
+Learning rate:  0.001
+Train ACC: 93.611
+Test ACC: 89.390
+Attack success rate: 86.970
+
+Epoch: 17
+Learning rate:  0.001
+Train ACC: 94.134
+Test ACC: 90.140
+Attack success rate: 88.380
+
+Epoch: 18
+Learning rate:  0.001
+Train ACC: 94.294
+Test ACC: 89.730
+Attack success rate: 85.840
+
+Epoch: 19
+Learning rate:  0.001
+Train ACC: 94.828
+Test ACC: 89.470
+Attack success rate: 88.870
+
+Epoch: 20
+Learning rate:  0.001
+Train ACC: 95.163
+Test ACC: 90.890
+Attack success rate: 88.830
+
+Epoch: 21
+Learning rate:  0.001
+Train ACC: 95.418
+Test ACC: 90.090
+Attack success rate: 88.290
+
+Epoch: 22
+Learning rate:  0.001
+Train ACC: 95.789
+Test ACC: 90.770
+Attack success rate: 88.910
+
+Epoch: 23
+Learning rate:  0.001
+Train ACC: 95.991
+Test ACC: 90.830
+Attack success rate: 88.970
+
+Epoch: 24
+Learning rate:  0.001
+Train ACC: 96.106
+Test ACC: 90.420
+Attack success rate: 88.530
+
+Epoch: 25
+Learning rate:  0.001
+Train ACC: 96.475
+Test ACC: 90.340
+Attack success rate: 87.490
+
+Epoch: 26
+Learning rate:  0.001
+Train ACC: 96.749
+Test ACC: 91.160
+Attack success rate: 87.660
+
+Epoch: 27
+Learning rate:  0.001
+Train ACC: 96.727
+Test ACC: 90.590
+Attack success rate: 88.760
+
+Epoch: 28
+Learning rate:  0.001
+Train ACC: 96.872
+Test ACC: 91.170
+Attack success rate: 88.760
+
+Epoch: 29
+Learning rate:  0.001
+Train ACC: 97.121
+Test ACC: 91.070
+Attack success rate: 88.800
+
+Epoch: 30
+Learning rate:  0.001
+Train ACC: 97.156
+Test ACC: 91.660
+Attack success rate: 88.100
+
+Epoch: 31
+Learning rate:  0.001
+Train ACC: 97.233
+Test ACC: 91.480
+Attack success rate: 89.740
+
+Epoch: 32
+Learning rate:  0.001
+Train ACC: 97.492
+Test ACC: 90.520
+Attack success rate: 87.080
+
+Epoch: 33
+Learning rate:  0.001
+Train ACC: 97.530
+Test ACC: 91.140
+Attack success rate: 89.690
+
+Epoch: 34
+Learning rate:  0.001
+Train ACC: 97.668
+Test ACC: 91.230
+Attack success rate: 88.560
+
+Epoch: 35
+Learning rate:  0.001
+Train ACC: 97.637
+Test ACC: 91.250
+Attack success rate: 88.960
+
+Epoch: 36
+Learning rate:  0.001
+Train ACC: 97.840
+Test ACC: 91.740
+Attack success rate: 90.400
+
+Epoch: 37
+Learning rate:  0.001
+Train ACC: 97.949
+Test ACC: 92.110
+Attack success rate: 89.380
+
+Epoch: 38
+Learning rate:  0.001
+Train ACC: 98.050
+Test ACC: 91.240
+Attack success rate: 89.210
+
+Epoch: 39
+Learning rate:  0.001
+Train ACC: 98.013
+Test ACC: 91.000
+Attack success rate: 87.890
+
+Epoch: 40
+Learning rate:  0.001
+Train ACC: 98.092
+Test ACC: 91.190
+Attack success rate: 88.770
+
+Epoch: 41
+Learning rate:  0.001
+Train ACC: 98.301
+Test ACC: 91.350
+Attack success rate: 89.540
+
+Epoch: 42
+Learning rate:  0.001
+Train ACC: 98.187
+Test ACC: 91.630
+Attack success rate: 90.010
+
+Epoch: 43
+Learning rate:  0.001
+Train ACC: 98.266
+Test ACC: 92.330
+Attack success rate: 90.140
+
+Epoch: 44
+Learning rate:  0.001
+Train ACC: 98.310
+Test ACC: 91.750
+Attack success rate: 90.160
+
+Epoch: 45
+Learning rate:  0.001
+Train ACC: 98.472
+Test ACC: 92.060
+Attack success rate: 90.200
+
+Epoch: 46
+Learning rate:  0.001
+Train ACC: 98.505
+Test ACC: 91.340
+Attack success rate: 87.660
+
+Epoch: 47
+Learning rate:  0.001
+Train ACC: 98.407
+Test ACC: 92.040
+Attack success rate: 89.870
+
+Epoch: 48
+Learning rate:  0.001
+Train ACC: 98.495
+Test ACC: 91.500
+Attack success rate: 89.780
+
+Epoch: 49
+Learning rate:  0.001
+Train ACC: 98.545
+Test ACC: 92.110
+Attack success rate: 90.120
+==> Preparing data..
+Files already downloaded and verified
+Files already downloaded and verified
+==> Preparing data..
+Files already downloaded and verified
+Files already downloaded and verified
+==> Building model..
+
+Epoch: 0
+Learning rate:  0.001
+Train ACC: 40.301
+Test ACC: 51.530
+Attack success rate: 6.600
+
+Epoch: 1
+Learning rate:  0.001
+Train ACC: 57.701
+Test ACC: 59.290
+Attack success rate: 51.740
+
+Epoch: 2
+Learning rate:  0.001
+Train ACC: 70.299
+Test ACC: 73.080
+Attack success rate: 63.060
+
+Epoch: 3
+Learning rate:  0.001
+Train ACC: 76.598
+Test ACC: 79.210
+Attack success rate: 74.000
+
+Epoch: 4
+Learning rate:  0.001
+Train ACC: 80.079
+Test ACC: 75.880
+Attack success rate: 74.100
+
+Epoch: 5
+Learning rate:  0.001
+Train ACC: 82.664
+Test ACC: 82.310
+Attack success rate: 80.240
+
+Epoch: 6
+Learning rate:  0.001
+Train ACC: 84.657
+Test ACC: 84.550
+Attack success rate: 82.120
+
+Epoch: 7
+Learning rate:  0.001
+Train ACC: 86.308
+Test ACC: 85.760
+Attack success rate: 80.550
+
+Epoch: 8
+Learning rate:  0.001
+Train ACC: 87.617
+Test ACC: 85.300
+Attack success rate: 81.760
+
+Epoch: 9
+Learning rate:  0.001
+Train ACC: 88.987
+Test ACC: 86.700
+Attack success rate: 84.940
+
+Epoch: 10
+Learning rate:  0.001
+Train ACC: 89.626
+Test ACC: 86.710
+Attack success rate: 83.100
+
+Epoch: 11
+Learning rate:  0.001
+Train ACC: 90.596
+Test ACC: 88.290
+Attack success rate: 84.430
+
+Epoch: 12
+Learning rate:  0.001
+Train ACC: 91.180
+Test ACC: 88.760
+Attack success rate: 86.850
+
+Epoch: 13
+Learning rate:  0.001
+Train ACC: 91.912
+Test ACC: 88.510
+Attack success rate: 84.310
+
+Epoch: 14
+Learning rate:  0.001
+Train ACC: 92.637
+Test ACC: 88.980
+Attack success rate: 86.760
+
+Epoch: 15
+Learning rate:  0.001
+Train ACC: 93.073
+Test ACC: 89.660
+Attack success rate: 86.500
+
+Epoch: 16
+Learning rate:  0.001
+Train ACC: 93.519
+Test ACC: 89.320
+Attack success rate: 86.570
+
+Epoch: 17
+Learning rate:  0.001
+Train ACC: 94.031
+Test ACC: 89.960
+Attack success rate: 86.990
+
+Epoch: 18
+Learning rate:  0.001
+Train ACC: 94.371
+Test ACC: 90.660
+Attack success rate: 88.430
+
+Epoch: 19
+Learning rate:  0.001
+Train ACC: 94.609
+Test ACC: 90.600
+Attack success rate: 87.380
+
+Epoch: 20
+Learning rate:  0.001
+Train ACC: 95.132
+Test ACC: 89.910
+Attack success rate: 87.520
+
+Epoch: 21
+Learning rate:  0.001
+Train ACC: 95.415
+Test ACC: 91.030
+Attack success rate: 88.030
+
+Epoch: 22
+Learning rate:  0.001
+Train ACC: 95.712
+Test ACC: 90.360
+Attack success rate: 88.050
+
+Epoch: 23
+Learning rate:  0.001
+Train ACC: 95.892
+Test ACC: 90.670
+Attack success rate: 89.010
+
+Epoch: 24
+Learning rate:  0.001
+Train ACC: 96.121
+Test ACC: 90.860
+Attack success rate: 88.240
+
+Epoch: 25
+Learning rate:  0.001
+Train ACC: 96.308
+Test ACC: 90.500
+Attack success rate: 88.210
+
+Epoch: 26
+Learning rate:  0.001
+Train ACC: 96.547
+Test ACC: 91.050
+Attack success rate: 88.770
+
+Epoch: 27
+Learning rate:  0.001
+Train ACC: 96.730
+Test ACC: 90.540
+Attack success rate: 88.040
+
+Epoch: 28
+Learning rate:  0.001
+Train ACC: 96.895
+Test ACC: 91.100
+Attack success rate: 87.550
+
+Epoch: 29
+Learning rate:  0.001
+Train ACC: 97.057
+Test ACC: 90.860
+Attack success rate: 88.430
+
+Epoch: 30
+Learning rate:  0.001
+Train ACC: 97.295
+Test ACC: 91.420
+Attack success rate: 88.210
+
+Epoch: 31
+Learning rate:  0.001
+Train ACC: 97.257
+Test ACC: 91.240
+Attack success rate: 89.460
+
+Epoch: 32
+Learning rate:  0.001
+Train ACC: 97.549
+Test ACC: 91.380
+Attack success rate: 88.080
+
+Epoch: 33
+Learning rate:  0.001
+Train ACC: 97.539
+Test ACC: 91.490
+Attack success rate: 89.330
+
+Epoch: 34
+Learning rate:  0.001
+Train ACC: 97.708
+Test ACC: 90.560
+Attack success rate: 88.950
+
+Epoch: 35
+Learning rate:  0.001
+Train ACC: 97.738
+Test ACC: 90.940
+Attack success rate: 88.780
+
+Epoch: 36
+Learning rate:  0.001
+Train ACC: 97.806
+Test ACC: 91.640
+Attack success rate: 88.710
+
+Epoch: 37
+Learning rate:  0.001
+Train ACC: 97.897
+Test ACC: 91.250
+Attack success rate: 88.620
+
+Epoch: 38
+Learning rate:  0.001
+Train ACC: 97.906
+Test ACC: 91.730
+Attack success rate: 89.110
+
+Epoch: 39
+Learning rate:  0.001
+Train ACC: 97.983
+Test ACC: 92.260
+Attack success rate: 89.250
+
+Epoch: 40
+Learning rate:  0.001
+Train ACC: 98.149
+Test ACC: 91.740
+Attack success rate: 89.360
+
+Epoch: 41
+Learning rate:  0.001
+Train ACC: 98.042
+Test ACC: 91.410
+Attack success rate: 90.170
+
+Epoch: 42
+Learning rate:  0.001
+Train ACC: 98.161
+Test ACC: 91.230
+Attack success rate: 89.580
+
+Epoch: 43
+Learning rate:  0.001
+Train ACC: 98.220
+Test ACC: 92.020
+Attack success rate: 89.540
+
+Epoch: 44
+Learning rate:  0.001
+Train ACC: 98.398
+Test ACC: 91.840
+Attack success rate: 88.670
+
+Epoch: 45
+Learning rate:  0.001
+Train ACC: 98.330
+Test ACC: 91.660
+Attack success rate: 89.170
+
+Epoch: 46
+Learning rate:  0.001
+Train ACC: 98.356
+Test ACC: 92.250
+Attack success rate: 90.540
+
+Epoch: 47
+Learning rate:  0.001
+Train ACC: 98.479
+Test ACC: 91.740
+Attack success rate: 89.380
+
+Epoch: 48
+Learning rate:  0.001
+Train ACC: 98.517
+Test ACC: 91.480
+Attack success rate: 88.590
+
+Epoch: 49
+Learning rate:  0.001
+Train ACC: 98.567
+Test ACC: 92.220
+Attack success rate: 90.050
+==> Preparing data..
+Files already downloaded and verified
+Files already downloaded and verified
+==> Preparing data..
+Files already downloaded and verified
+Files already downloaded and verified
+==> Building model..
+
+Epoch: 0
+Learning rate:  0.001
+Train ACC: 40.356
+Test ACC: 53.640
+Attack success rate: 4.080
+
+Epoch: 1
+Learning rate:  0.001
+Train ACC: 58.879
+Test ACC: 65.240
+Attack success rate: 55.940
+
+Epoch: 2
+Learning rate:  0.001
+Train ACC: 69.925
+Test ACC: 72.010
+Attack success rate: 68.260
+
+Epoch: 3
+Learning rate:  0.001
+Train ACC: 76.059
+Test ACC: 79.320
+Attack success rate: 71.780
+
+Epoch: 4
+Learning rate:  0.001
+Train ACC: 79.539
+Test ACC: 79.790
+Attack success rate: 72.020
+
+Epoch: 5
+Learning rate:  0.001
+Train ACC: 82.428
+Test ACC: 82.490
+Attack success rate: 77.200
+
+Epoch: 6
+Learning rate:  0.001
+Train ACC: 84.543
+Test ACC: 84.030
+Attack success rate: 82.370
+
+Epoch: 7
+Learning rate:  0.001
+Train ACC: 86.244
+Test ACC: 87.040
+Attack success rate: 83.110
+
+Epoch: 8
+Learning rate:  0.001
+Train ACC: 87.495
+Test ACC: 85.620
+Attack success rate: 81.170
+
+Epoch: 9
+Learning rate:  0.001
+Train ACC: 88.426
+Test ACC: 86.780
+Attack success rate: 82.160
+
+Epoch: 10
+Learning rate:  0.001
+Train ACC: 89.251
+Test ACC: 88.440
+Attack success rate: 84.930
+
+Epoch: 11
+Learning rate:  0.001
+Train ACC: 90.350
+Test ACC: 87.920
+Attack success rate: 85.570
+
+Epoch: 12
+Learning rate:  0.001
+Train ACC: 91.092
+Test ACC: 87.690
+Attack success rate: 84.050
+
+Epoch: 13
+Learning rate:  0.001
+Train ACC: 91.780
+Test ACC: 89.280
+Attack success rate: 86.650
+
+Epoch: 14
+Learning rate:  0.001
+Train ACC: 92.453
+Test ACC: 89.510
+Attack success rate: 85.970
+
+Epoch: 15
+Learning rate:  0.001
+Train ACC: 92.785
+Test ACC: 88.100
+Attack success rate: 86.260
+
+Epoch: 16
+Learning rate:  0.001
+Train ACC: 93.431
+Test ACC: 89.510
+Attack success rate: 86.440
+
+Epoch: 17
+Learning rate:  0.001
+Train ACC: 93.956
+Test ACC: 89.060
+Attack success rate: 85.670
+
+Epoch: 18
+Learning rate:  0.001
+Train ACC: 94.239
+Test ACC: 90.080
+Attack success rate: 87.220
+
+Epoch: 19
+Learning rate:  0.001
+Train ACC: 94.750
+Test ACC: 90.430
+Attack success rate: 87.220
+
+Epoch: 20
+Learning rate:  0.001
+Train ACC: 94.930
+Test ACC: 90.080
+Attack success rate: 87.860
+
+Epoch: 21
+Learning rate:  0.001
+Train ACC: 95.204
+Test ACC: 90.670
+Attack success rate: 86.830
+
+Epoch: 22
+Learning rate:  0.001
+Train ACC: 95.789
+Test ACC: 88.580
+Attack success rate: 86.730
+
+Epoch: 23
+Learning rate:  0.001
+Train ACC: 95.840
+Test ACC: 91.040
+Attack success rate: 88.200
+
+Epoch: 24
+Learning rate:  0.001
+Train ACC: 96.035
+Test ACC: 91.140
+Attack success rate: 88.280
+
+Epoch: 25
+Learning rate:  0.001
+Train ACC: 96.448
+Test ACC: 90.700
+Attack success rate: 87.930
+
+Epoch: 26
+Learning rate:  0.001
+Train ACC: 96.490
+Test ACC: 91.080
+Attack success rate: 88.470
+
+Epoch: 27
+Learning rate:  0.001
+Train ACC: 96.772
+Test ACC: 91.200
+Attack success rate: 88.960
+
+Epoch: 28
+Learning rate:  0.001
+Train ACC: 97.024
+Test ACC: 90.910
+Attack success rate: 88.760
+
+Epoch: 29
+Learning rate:  0.001
+Train ACC: 97.061
+Test ACC: 91.390
+Attack success rate: 88.230
+
+Epoch: 30
+Learning rate:  0.001
+Train ACC: 97.253
+Test ACC: 90.640
+Attack success rate: 87.430
+
+Epoch: 31
+Learning rate:  0.001
+Train ACC: 97.325
+Test ACC: 91.590
+Attack success rate: 89.350
+
+Epoch: 32
+Learning rate:  0.001
+Train ACC: 97.435
+Test ACC: 91.690
+Attack success rate: 89.280
+
+Epoch: 33
+Learning rate:  0.001
+Train ACC: 97.602
+Test ACC: 90.600
+Attack success rate: 88.640
+
+Epoch: 34
+Learning rate:  0.001
+Train ACC: 97.684
+Test ACC: 90.870
+Attack success rate: 88.600
+
+Epoch: 35
+Learning rate:  0.001
+Train ACC: 97.686
+Test ACC: 91.710
+Attack success rate: 88.660
+
+Epoch: 36
+Learning rate:  0.001
+Train ACC: 97.853
+Test ACC: 91.020
+Attack success rate: 88.650
+
+Epoch: 37
+Learning rate:  0.001
+Train ACC: 97.958
+Test ACC: 91.620
+Attack success rate: 88.830
+
+Epoch: 38
+Learning rate:  0.001
+Train ACC: 97.967
+Test ACC: 91.760
+Attack success rate: 88.860
+
+Epoch: 39
+Learning rate:  0.001
+Train ACC: 98.059
+Test ACC: 90.810
+Attack success rate: 85.990
+
+Epoch: 40
+Learning rate:  0.001
+Train ACC: 98.044
+Test ACC: 91.500
+Attack success rate: 88.960
+
+Epoch: 41
+Learning rate:  0.001
+Train ACC: 98.185
+Test ACC: 91.370
+Attack success rate: 88.750
+
+Epoch: 42
+Learning rate:  0.001
+Train ACC: 98.235
+Test ACC: 91.890
+Attack success rate: 89.400
+
+Epoch: 43
+Learning rate:  0.001
+Train ACC: 98.262
+Test ACC: 91.550
+Attack success rate: 89.190
+
+Epoch: 44
+Learning rate:  0.001
+Train ACC: 98.365
+Test ACC: 91.990
+Attack success rate: 90.120
+
+Epoch: 45
+Learning rate:  0.001
+Train ACC: 98.356
+Test ACC: 92.160
+Attack success rate: 89.220
+
+Epoch: 46
+Learning rate:  0.001
+Train ACC: 98.354
+Test ACC: 92.430
+Attack success rate: 89.270
+
+Epoch: 47
+Learning rate:  0.001
+Train ACC: 98.459
+Test ACC: 92.250
+Attack success rate: 89.810
+
+Epoch: 48
+Learning rate:  0.001
+Train ACC: 98.497
+Test ACC: 92.010
+Attack success rate: 89.470
+
+Epoch: 49
+Learning rate:  0.001
+Train ACC: 98.598
+Test ACC: 92.350
+Attack success rate: 89.360
+==> Preparing data..
+Files already downloaded and verified
+Files already downloaded and verified
+==> Preparing data..
+Files already downloaded and verified
+Files already downloaded and verified
+==> Building model..
+
+Epoch: 0
+Learning rate:  0.001
+Train ACC: 38.914
+Test ACC: 54.030
+Attack success rate: 5.210
+
+Epoch: 1
+Learning rate:  0.001
+Train ACC: 58.681
+Test ACC: 68.360
+Attack success rate: 51.990
+
+Epoch: 2
+Learning rate:  0.001
+Train ACC: 71.503
+Test ACC: 69.420
+Attack success rate: 62.130
+
+Epoch: 3
+Learning rate:  0.001
+Train ACC: 77.136
+Test ACC: 80.640
+Attack success rate: 73.670
+
+Epoch: 4
+Learning rate:  0.001
+Train ACC: 80.872
+Test ACC: 82.060
+Attack success rate: 74.980
+
+Epoch: 5
+Learning rate:  0.001
+Train ACC: 83.116
+Test ACC: 82.450
+Attack success rate: 77.010
+
+Epoch: 6
+Learning rate:  0.001
+Train ACC: 85.176
+Test ACC: 84.870
+Attack success rate: 80.480
+
+Epoch: 7
+Learning rate:  0.001
+Train ACC: 86.734
+Test ACC: 86.510
+Attack success rate: 82.210
+
+Epoch: 8
+Learning rate:  0.001
+Train ACC: 87.923
+Test ACC: 87.240
+Attack success rate: 80.530
+
+Epoch: 9
+Learning rate:  0.001
+Train ACC: 88.675
+Test ACC: 85.720
+Attack success rate: 79.340
+
+Epoch: 10
+Learning rate:  0.001
+Train ACC: 89.767
+Test ACC: 87.000
+Attack success rate: 84.040
+
+Epoch: 11
+Learning rate:  0.001
+Train ACC: 90.806
+Test ACC: 88.240
+Attack success rate: 85.440
+
+Epoch: 12
+Learning rate:  0.001
+Train ACC: 91.283
+Test ACC: 88.790
+Attack success rate: 86.160
+
+Epoch: 13
+Learning rate:  0.001
+Train ACC: 91.980
+Test ACC: 89.630
+Attack success rate: 87.560
+
+Epoch: 14
+Learning rate:  0.001
+Train ACC: 92.516
+Test ACC: 88.470
+Attack success rate: 86.130
+
+Epoch: 15
+Learning rate:  0.001
+Train ACC: 93.180
+Test ACC: 90.320
+Attack success rate: 87.520
+
+Epoch: 16
+Learning rate:  0.001
+Train ACC: 93.712
+Test ACC: 89.520
+Attack success rate: 86.050
+
+Epoch: 17
+Learning rate:  0.001
+Train ACC: 94.106
+Test ACC: 90.240
+Attack success rate: 87.700
+
+Epoch: 18
+Learning rate:  0.001
+Train ACC: 94.580
+Test ACC: 89.440
+Attack success rate: 86.570
+
+Epoch: 19
+Learning rate:  0.001
+Train ACC: 94.721
+Test ACC: 89.940
+Attack success rate: 86.390
+
+Epoch: 20
+Learning rate:  0.001
+Train ACC: 95.268
+Test ACC: 90.570
+Attack success rate: 87.890
+
+Epoch: 21
+Learning rate:  0.001
+Train ACC: 95.407
+Test ACC: 90.420
+Attack success rate: 86.900
+
+Epoch: 22
+Learning rate:  0.001
+Train ACC: 95.778
+Test ACC: 91.690
+Attack success rate: 89.210
+
+Epoch: 23
+Learning rate:  0.001
+Train ACC: 96.156
+Test ACC: 91.100
+Attack success rate: 87.380
+
+Epoch: 24
+Learning rate:  0.001
+Train ACC: 96.191
+Test ACC: 91.130
+Attack success rate: 87.990
+
+Epoch: 25
+Learning rate:  0.001
+Train ACC: 96.453
+Test ACC: 90.670
+Attack success rate: 88.160
+
+Epoch: 26
+Learning rate:  0.001
+Train ACC: 96.609
+Test ACC: 91.210
+Attack success rate: 88.170
+
+Epoch: 27
+Learning rate:  0.001
+Train ACC: 96.822
+Test ACC: 91.140
+Attack success rate: 88.930
+
+Epoch: 28
+Learning rate:  0.001
+Train ACC: 96.828
+Test ACC: 91.540
+Attack success rate: 88.380
+
+Epoch: 29
+Learning rate:  0.001
+Train ACC: 97.121
+Test ACC: 91.160
+Attack success rate: 88.340
+
+Epoch: 30
+Learning rate:  0.001
+Train ACC: 97.339
+Test ACC: 91.670
+Attack success rate: 83.600
+
+Epoch: 31
+Learning rate:  0.001
+Train ACC: 97.332
+Test ACC: 91.560
+Attack success rate: 88.170
+
+Epoch: 32
+Learning rate:  0.001
+Train ACC: 97.481
+Test ACC: 91.660
+Attack success rate: 88.190
+
+Epoch: 33
+Learning rate:  0.001
+Train ACC: 97.604
+Test ACC: 91.340
+Attack success rate: 89.300
+
+Epoch: 34
+Learning rate:  0.001
+Train ACC: 97.730
+Test ACC: 91.550
+Attack success rate: 88.630
+
+Epoch: 35
+Learning rate:  0.001
+Train ACC: 97.815
+Test ACC: 90.920
+Attack success rate: 88.030
+
+Epoch: 36
+Learning rate:  0.001
+Train ACC: 97.811
+Test ACC: 91.300
+Attack success rate: 88.030
+
+Epoch: 37
+Learning rate:  0.001
+Train ACC: 97.890
+Test ACC: 91.710
+Attack success rate: 88.140
+
+Epoch: 38
+Learning rate:  0.001
+Train ACC: 98.007
+Test ACC: 91.410
+Attack success rate: 88.860
+
+Epoch: 39
+Learning rate:  0.001
+Train ACC: 98.149
+Test ACC: 91.160
+Attack success rate: 88.770
+
+Epoch: 40
+Learning rate:  0.001
+Train ACC: 98.031
+Test ACC: 91.450
+Attack success rate: 88.120
+
+Epoch: 41
+Learning rate:  0.001
+Train ACC: 98.167
+Test ACC: 91.880
+Attack success rate: 86.850
+
+Epoch: 42
+Learning rate:  0.001
+Train ACC: 98.299
+Test ACC: 91.910
+Attack success rate: 89.580
+
+Epoch: 43
+Learning rate:  0.001
+Train ACC: 98.235
+Test ACC: 92.030
+Attack success rate: 89.600
+
+Epoch: 44
+Learning rate:  0.001
+Train ACC: 98.413
+Test ACC: 92.030
+Attack success rate: 89.670
+
+Epoch: 45
+Learning rate:  0.001
+Train ACC: 98.398
+Test ACC: 91.490
+Attack success rate: 88.230
+
+Epoch: 46
+Learning rate:  0.001
+Train ACC: 98.508
+Test ACC: 91.850
+Attack success rate: 88.960
+
+Epoch: 47
+Learning rate:  0.001
+Train ACC: 98.420
+Test ACC: 91.330
+Attack success rate: 88.730
+
+Epoch: 48
+Learning rate:  0.001
+Train ACC: 98.506
+Test ACC: 91.830
+Attack success rate: 89.300
+
+Epoch: 49
+Learning rate:  0.001
+Train ACC: 98.582
+Test ACC: 91.980
+Attack success rate: 89.520
+==> Preparing data..
+Files already downloaded and verified
+Files already downloaded and verified
+==> Preparing data..
+Files already downloaded and verified
+Files already downloaded and verified
+==> Building model..
+
+Epoch: 0
+Learning rate:  0.001
+Train ACC: 37.070
+Test ACC: 46.100
+Attack success rate: 5.110
+
+Epoch: 1
+Learning rate:  0.001
+Train ACC: 54.661
+Test ACC: 58.890
+Attack success rate: 49.130
+
+Epoch: 2
+Learning rate:  0.001
+Train ACC: 67.558
+Test ACC: 71.900
+Attack success rate: 59.110
+
+Epoch: 3
+Learning rate:  0.001
+Train ACC: 74.136
+Test ACC: 72.140
+Attack success rate: 60.060
+
+Epoch: 4
+Learning rate:  0.001
+Train ACC: 78.339
+Test ACC: 80.890
+Attack success rate: 72.810
+
+Epoch: 5
+Learning rate:  0.001
+Train ACC: 81.314
+Test ACC: 80.800
+Attack success rate: 76.020
+
+Epoch: 6
+Learning rate:  0.001
+Train ACC: 83.407
+Test ACC: 84.770
+Attack success rate: 81.190
+
+Epoch: 7
+Learning rate:  0.001
+Train ACC: 85.086
+Test ACC: 85.780
+Attack success rate: 80.960
+
+Epoch: 8
+Learning rate:  0.001
+Train ACC: 86.574
+Test ACC: 83.290
+Attack success rate: 79.660
+
+Epoch: 9
+Learning rate:  0.001
+Train ACC: 87.778
+Test ACC: 86.830
+Attack success rate: 82.550
+
+Epoch: 10
+Learning rate:  0.001
+Train ACC: 88.883
+Test ACC: 87.520
+Attack success rate: 84.330
+
+Epoch: 11
+Learning rate:  0.001
+Train ACC: 89.739
+Test ACC: 87.120
+Attack success rate: 82.570
+
+Epoch: 12
+Learning rate:  0.001
+Train ACC: 90.417
+Test ACC: 87.640
+Attack success rate: 84.540
+
+Epoch: 13
+Learning rate:  0.001
+Train ACC: 91.387
+Test ACC: 88.540
+Attack success rate: 84.820
+
+Epoch: 14
+Learning rate:  0.001
+Train ACC: 91.910
+Test ACC: 89.350
+Attack success rate: 84.980
+
+Epoch: 15
+Learning rate:  0.001
+Train ACC: 92.539
+Test ACC: 89.000
+Attack success rate: 83.770
+
+Epoch: 16
+Learning rate:  0.001
+Train ACC: 92.987
+Test ACC: 90.000
+Attack success rate: 86.890
+
+Epoch: 17
+Learning rate:  0.001
+Train ACC: 93.490
+Test ACC: 89.510
+Attack success rate: 86.480
+
+Epoch: 18
+Learning rate:  0.001
+Train ACC: 94.139
+Test ACC: 90.370
+Attack success rate: 87.370
+
+Epoch: 19
+Learning rate:  0.001
+Train ACC: 94.262
+Test ACC: 90.630
+Attack success rate: 87.770
+
+Epoch: 20
+Learning rate:  0.001
+Train ACC: 94.813
+Test ACC: 90.530
+Attack success rate: 87.940
+
+Epoch: 21
+Learning rate:  0.001
+Train ACC: 94.897
+Test ACC: 89.980
+Attack success rate: 85.910
+
+Epoch: 22
+Learning rate:  0.001
+Train ACC: 95.433
+Test ACC: 89.760
+Attack success rate: 86.240
+
+Epoch: 23
+Learning rate:  0.001
+Train ACC: 95.591
+Test ACC: 89.650
+Attack success rate: 87.830
+
+Epoch: 24
+Learning rate:  0.001
+Train ACC: 95.851
+Test ACC: 90.840
+Attack success rate: 87.480
+
+Epoch: 25
+Learning rate:  0.001
+Train ACC: 96.053
+Test ACC: 91.210
+Attack success rate: 87.940
+
+Epoch: 26
+Learning rate:  0.001
+Train ACC: 96.196
+Test ACC: 90.250
+Attack success rate: 86.950
+
+Epoch: 27
+Learning rate:  0.001
+Train ACC: 96.530
+Test ACC: 91.260
+Attack success rate: 88.880
+
+Epoch: 28
+Learning rate:  0.001
+Train ACC: 96.683
+Test ACC: 91.220
+Attack success rate: 87.860
+
+Epoch: 29
+Learning rate:  0.001
+Train ACC: 96.866
+Test ACC: 90.950
+Attack success rate: 86.190
+
+Epoch: 30
+Learning rate:  0.001
+Train ACC: 97.055
+Test ACC: 91.090
+Attack success rate: 89.050
+
+Epoch: 31
+Learning rate:  0.001
+Train ACC: 97.094
+Test ACC: 90.880
+Attack success rate: 88.300
+
+Epoch: 32
+Learning rate:  0.001
+Train ACC: 97.290
+Test ACC: 91.130
+Attack success rate: 88.900
+
+Epoch: 33
+Learning rate:  0.001
+Train ACC: 97.382
+Test ACC: 91.710
+Attack success rate: 89.090
+
+Epoch: 34
+Learning rate:  0.001
+Train ACC: 97.521
+Test ACC: 91.370
+Attack success rate: 88.760
+
+Epoch: 35
+Learning rate:  0.001
+Train ACC: 97.545
+Test ACC: 91.530
+Attack success rate: 89.540
+
+Epoch: 36
+Learning rate:  0.001
+Train ACC: 97.583
+Test ACC: 91.990
+Attack success rate: 89.220
+
+Epoch: 37
+Learning rate:  0.001
+Train ACC: 97.706
+Test ACC: 91.180
+Attack success rate: 88.780
+
+Epoch: 38
+Learning rate:  0.001
+Train ACC: 97.780
+Test ACC: 91.840
+Attack success rate: 89.530
+
+Epoch: 39
+Learning rate:  0.001
+Train ACC: 97.952
+Test ACC: 91.730
+Attack success rate: 89.180
+
+Epoch: 40
+Learning rate:  0.001
+Train ACC: 98.138
+Test ACC: 91.150
+Attack success rate: 88.710
+
+Epoch: 41
+Learning rate:  0.001
+Train ACC: 98.095
+Test ACC: 91.920
+Attack success rate: 89.540
+
+Epoch: 42
+Learning rate:  0.001
+Train ACC: 98.031
+Test ACC: 91.270
+Attack success rate: 88.480
+
+Epoch: 43
+Learning rate:  0.001
+Train ACC: 98.101
+Test ACC: 91.250
+Attack success rate: 88.370
+
+Epoch: 44
+Learning rate:  0.001
+Train ACC: 98.286
+Test ACC: 91.780
+Attack success rate: 89.250
+
+Epoch: 45
+Learning rate:  0.001
+Train ACC: 98.354
+Test ACC: 91.710
+Attack success rate: 89.220
+
+Epoch: 46
+Learning rate:  0.001
+Train ACC: 98.376
+Test ACC: 91.870
+Attack success rate: 88.950
+
+Epoch: 47
+Learning rate:  0.001
+Train ACC: 98.391
+Test ACC: 91.900
+Attack success rate: 88.740
+
+Epoch: 48
+Learning rate:  0.001
+Train ACC: 98.483
+Test ACC: 91.760
+Attack success rate: 89.620
+
+Epoch: 49
+Learning rate:  0.001
+Train ACC: 98.539
+Test ACC: 91.790
+Attack success rate: 89.290
+==> Preparing data..
+Files already downloaded and verified
+Files already downloaded and verified
+==> Preparing data..
+Files already downloaded and verified
+Files already downloaded and verified
+==> Building model..
+
+Epoch: 0
+Learning rate:  0.001
+Train ACC: 39.561
+Test ACC: 54.880
+Attack success rate: 3.410
+
+Epoch: 1
+Learning rate:  0.001
+Train ACC: 55.862
+Test ACC: 67.320
+Attack success rate: 29.540
+
+Epoch: 2
+Learning rate:  0.001
+Train ACC: 68.692
+Test ACC: 73.030
+Attack success rate: 60.030
+
+Epoch: 3
+Learning rate:  0.001
+Train ACC: 75.431
+Test ACC: 79.350
+Attack success rate: 72.390
+
+Epoch: 4
+Learning rate:  0.001
+Train ACC: 79.417
+Test ACC: 80.220
+Attack success rate: 74.450
+
+Epoch: 5
+Learning rate:  0.001
+Train ACC: 82.406
+Test ACC: 83.830
+Attack success rate: 80.650
+
+Epoch: 6
+Learning rate:  0.001
+Train ACC: 84.167
+Test ACC: 84.500
+Attack success rate: 78.470
+
+Epoch: 7
+Learning rate:  0.001
+Train ACC: 85.899
+Test ACC: 86.360
+Attack success rate: 80.300
+
+Epoch: 8
+Learning rate:  0.001
+Train ACC: 87.108
+Test ACC: 85.700
+Attack success rate: 83.920
+
+Epoch: 9
+Learning rate:  0.001
+Train ACC: 88.585
+Test ACC: 85.860
+Attack success rate: 83.180
+
+Epoch: 10
+Learning rate:  0.001
+Train ACC: 89.391
+Test ACC: 88.620
+Attack success rate: 84.220
+
+Epoch: 11
+Learning rate:  0.001
+Train ACC: 90.343
+Test ACC: 88.300
+Attack success rate: 85.550
+
+Epoch: 12
+Learning rate:  0.001
+Train ACC: 91.053
+Test ACC: 87.000
+Attack success rate: 82.800
+
+Epoch: 13
+Learning rate:  0.001
+Train ACC: 91.875
+Test ACC: 88.060
+Attack success rate: 83.360
+
+Epoch: 14
+Learning rate:  0.001
+Train ACC: 92.266
+Test ACC: 90.040
+Attack success rate: 87.580
+
+Epoch: 15
+Learning rate:  0.001
+Train ACC: 93.033
+Test ACC: 89.500
+Attack success rate: 85.770
+
+Epoch: 16
+Learning rate:  0.001
+Train ACC: 93.501
+Test ACC: 89.570
+Attack success rate: 85.830
+
+Epoch: 17
+Learning rate:  0.001
+Train ACC: 93.892
+Test ACC: 90.250
+Attack success rate: 87.580
+
+Epoch: 18
+Learning rate:  0.001
+Train ACC: 94.259
+Test ACC: 89.820
+Attack success rate: 85.860
+
+Epoch: 19
+Learning rate:  0.001
+Train ACC: 94.840
+Test ACC: 90.060
+Attack success rate: 87.900
+
+Epoch: 20
+Learning rate:  0.001
+Train ACC: 95.125
+Test ACC: 90.610
+Attack success rate: 88.550
+
+Epoch: 21
+Learning rate:  0.001
+Train ACC: 95.262
+Test ACC: 90.660
+Attack success rate: 87.870
+
+Epoch: 22
+Learning rate:  0.001
+Train ACC: 95.462
+Test ACC: 90.280
+Attack success rate: 85.820
+
+Epoch: 23
+Learning rate:  0.001
+Train ACC: 96.044
+Test ACC: 90.850
+Attack success rate: 88.650
+
+Epoch: 24
+Learning rate:  0.001
+Train ACC: 96.044
+Test ACC: 91.250
+Attack success rate: 87.530
+
+Epoch: 25
+Learning rate:  0.001
+Train ACC: 96.239
+Test ACC: 91.290
+Attack success rate: 88.960
+
+Epoch: 26
+Learning rate:  0.001
+Train ACC: 96.594
+Test ACC: 90.740
+Attack success rate: 88.100
+
+Epoch: 27
+Learning rate:  0.001
+Train ACC: 96.741
+Test ACC: 90.600
+Attack success rate: 87.850
+
+Epoch: 28
+Learning rate:  0.001
+Train ACC: 96.817
+Test ACC: 90.660
+Attack success rate: 87.720
+
+Epoch: 29
+Learning rate:  0.001
+Train ACC: 96.976
+Test ACC: 91.340
+Attack success rate: 88.490
+
+Epoch: 30
+Learning rate:  0.001
+Train ACC: 97.132
+Test ACC: 91.370
+Attack success rate: 88.550
+
+Epoch: 31
+Learning rate:  0.001
+Train ACC: 97.371
+Test ACC: 91.540
+Attack success rate: 88.890
+
+Epoch: 32
+Learning rate:  0.001
+Train ACC: 97.365
+Test ACC: 91.250
+Attack success rate: 89.440
+
+Epoch: 33
+Learning rate:  0.001
+Train ACC: 97.424
+Test ACC: 91.690
+Attack success rate: 88.890
+
+Epoch: 34
+Learning rate:  0.001
+Train ACC: 97.716
+Test ACC: 91.330
+Attack success rate: 89.150
+
+Epoch: 35
+Learning rate:  0.001
+Train ACC: 97.745
+Test ACC: 91.030
+Attack success rate: 88.840
+
+Epoch: 36
+Learning rate:  0.001
+Train ACC: 97.807
+Test ACC: 91.330
+Attack success rate: 88.750
+
+Epoch: 37
+Learning rate:  0.001
+Train ACC: 97.833
+Test ACC: 90.740
+Attack success rate: 87.130
+
+Epoch: 38
+Learning rate:  0.001
+Train ACC: 97.932
+Test ACC: 90.890
+Attack success rate: 87.890
+
+Epoch: 39
+Learning rate:  0.001
+Train ACC: 98.084
+Test ACC: 91.360
+Attack success rate: 89.490
+
+Epoch: 40
+Learning rate:  0.001
+Train ACC: 98.132
+Test ACC: 91.830
+Attack success rate: 89.380
+
+Epoch: 41
+Learning rate:  0.001
+Train ACC: 98.169
+Test ACC: 90.940
+Attack success rate: 89.240
+
+Epoch: 42
+Learning rate:  0.001
+Train ACC: 98.222
+Test ACC: 91.790
+Attack success rate: 90.270
+
+Epoch: 43
+Learning rate:  0.001
+Train ACC: 98.213
+Test ACC: 91.700
+Attack success rate: 89.480
+
+Epoch: 44
+Learning rate:  0.001
+Train ACC: 98.338
+Test ACC: 92.180
+Attack success rate: 89.880
+
+Epoch: 45
+Learning rate:  0.001
+Train ACC: 98.363
+Test ACC: 91.950
+Attack success rate: 89.540
+
+Epoch: 46
+Learning rate:  0.001
+Train ACC: 98.360
+Test ACC: 91.760
+Attack success rate: 89.520
+
+Epoch: 47
+Learning rate:  0.001
+Train ACC: 98.387
+Test ACC: 91.690
+Attack success rate: 89.740
+
+Epoch: 48
+Learning rate:  0.001
+Train ACC: 98.497
+Test ACC: 91.990
+Attack success rate: 89.760
+
+Epoch: 49
+Learning rate:  0.001
+Train ACC: 98.572
+Test ACC: 91.370
+Attack success rate: 88.640
+==> Preparing data..
+Files already downloaded and verified
+Files already downloaded and verified
+==> Preparing data..
+Files already downloaded and verified
+Files already downloaded and verified
+==> Building model..
+
+Epoch: 0
+Learning rate:  0.001
+Train ACC: 40.273
+Test ACC: 53.150
+Attack success rate: 4.470
+
+Epoch: 1
+Learning rate:  0.001
+Train ACC: 59.101
+Test ACC: 57.460
+Attack success rate: 43.450
+
+Epoch: 2
+Learning rate:  0.001
+Train ACC: 71.246
+Test ACC: 74.920
+Attack success rate: 63.430
+
+Epoch: 3
+Learning rate:  0.001
+Train ACC: 76.921
+Test ACC: 78.950
+Attack success rate: 70.820
+
+Epoch: 4
+Learning rate:  0.001
+Train ACC: 80.494
+Test ACC: 82.950
+Attack success rate: 78.890
+
+Epoch: 5
+Learning rate:  0.001
+Train ACC: 83.207
+Test ACC: 83.150
+Attack success rate: 80.630
+
+Epoch: 6
+Learning rate:  0.001
+Train ACC: 85.169
+Test ACC: 85.250
+Attack success rate: 82.160
+
+Epoch: 7
+Learning rate:  0.001
+Train ACC: 86.728
+Test ACC: 86.460
+Attack success rate: 81.680
+
+Epoch: 8
+Learning rate:  0.001
+Train ACC: 87.683
+Test ACC: 87.420
+Attack success rate: 85.310
+
+Epoch: 9
+Learning rate:  0.001
+Train ACC: 88.864
+Test ACC: 87.550
+Attack success rate: 84.020
+
+Epoch: 10
+Learning rate:  0.001
+Train ACC: 89.771
+Test ACC: 87.770
+Attack success rate: 83.790
+
+Epoch: 11
+Learning rate:  0.001
+Train ACC: 90.428
+Test ACC: 87.780
+Attack success rate: 85.460
+
+Epoch: 12
+Learning rate:  0.001
+Train ACC: 91.327
+Test ACC: 88.580
+Attack success rate: 85.240
+
+Epoch: 13
+Learning rate:  0.001
+Train ACC: 91.969
+Test ACC: 89.010
+Attack success rate: 87.100
+
+Epoch: 14
+Learning rate:  0.001
+Train ACC: 92.749
+Test ACC: 89.580
+Attack success rate: 84.980
+
+Epoch: 15
+Learning rate:  0.001
+Train ACC: 93.270
+Test ACC: 89.530
+Attack success rate: 84.680
+
+Epoch: 16
+Learning rate:  0.001
+Train ACC: 93.683
+Test ACC: 90.300
+Attack success rate: 86.020
+
+Epoch: 17
+Learning rate:  0.001
+Train ACC: 94.042
+Test ACC: 89.410
+Attack success rate: 87.280
+
+Epoch: 18
+Learning rate:  0.001
+Train ACC: 94.508
+Test ACC: 90.490
+Attack success rate: 89.070
+
+Epoch: 19
+Learning rate:  0.001
+Train ACC: 94.855
+Test ACC: 90.570
+Attack success rate: 88.840
+
+Epoch: 20
+Learning rate:  0.001
+Train ACC: 95.073
+Test ACC: 89.990
+Attack success rate: 86.660
+
+Epoch: 21
+Learning rate:  0.001
+Train ACC: 95.439
+Test ACC: 90.790
+Attack success rate: 88.450
+
+Epoch: 22
+Learning rate:  0.001
+Train ACC: 95.752
+Test ACC: 91.690
+Attack success rate: 88.770
+
+Epoch: 23
+Learning rate:  0.001
+Train ACC: 96.039
+Test ACC: 90.930
+Attack success rate: 88.690
+
+Epoch: 24
+Learning rate:  0.001
+Train ACC: 96.213
+Test ACC: 91.240
+Attack success rate: 88.890
+
+Epoch: 25
+Learning rate:  0.001
+Train ACC: 96.306
+Test ACC: 91.250
+Attack success rate: 88.670
+
+Epoch: 26
+Learning rate:  0.001
+Train ACC: 96.582
+Test ACC: 90.640
+Attack success rate: 87.500
+
+Epoch: 27
+Learning rate:  0.001
+Train ACC: 96.783
+Test ACC: 90.600
+Attack success rate: 88.810
+
+Epoch: 28
+Learning rate:  0.001
+Train ACC: 97.017
+Test ACC: 91.330
+Attack success rate: 87.420
+
+Epoch: 29
+Learning rate:  0.001
+Train ACC: 97.127
+Test ACC: 91.110
+Attack success rate: 88.740
+
+Epoch: 30
+Learning rate:  0.001
+Train ACC: 97.272
+Test ACC: 90.960
+Attack success rate: 89.420
+
+Epoch: 31
+Learning rate:  0.001
+Train ACC: 97.374
+Test ACC: 91.500
+Attack success rate: 88.420
+
+Epoch: 32
+Learning rate:  0.001
+Train ACC: 97.532
+Test ACC: 91.640
+Attack success rate: 88.870
+
+Epoch: 33
+Learning rate:  0.001
+Train ACC: 97.600
+Test ACC: 91.160
+Attack success rate: 88.450
+
+Epoch: 34
+Learning rate:  0.001
+Train ACC: 97.761
+Test ACC: 91.120
+Attack success rate: 88.480
+
+Epoch: 35
+Learning rate:  0.001
+Train ACC: 97.851
+Test ACC: 91.590
+Attack success rate: 88.840
+
+Epoch: 36
+Learning rate:  0.001
+Train ACC: 97.826
+Test ACC: 91.790
+Attack success rate: 88.980
+
+Epoch: 37
+Learning rate:  0.001
+Train ACC: 97.965
+Test ACC: 91.980
+Attack success rate: 89.450
+
+Epoch: 38
+Learning rate:  0.001
+Train ACC: 98.051
+Test ACC: 91.800
+Attack success rate: 90.010
+
+Epoch: 39
+Learning rate:  0.001
+Train ACC: 98.116
+Test ACC: 91.450
+Attack success rate: 89.210
+
+Epoch: 40
+Learning rate:  0.001
+Train ACC: 98.160
+Test ACC: 91.970
+Attack success rate: 90.220
+
+Epoch: 41
+Learning rate:  0.001
+Train ACC: 98.189
+Test ACC: 92.380
+Attack success rate: 90.110
+
+Epoch: 42
+Learning rate:  0.001
+Train ACC: 98.235
+Test ACC: 91.270
+Attack success rate: 89.100
+
+Epoch: 43
+Learning rate:  0.001
+Train ACC: 98.286
+Test ACC: 92.030
+Attack success rate: 90.540
+
+Epoch: 44
+Learning rate:  0.001
+Train ACC: 98.349
+Test ACC: 91.490
+Attack success rate: 89.860
+
+Epoch: 45
+Learning rate:  0.001
+Train ACC: 98.338
+Test ACC: 91.770
+Attack success rate: 89.290
+
+Epoch: 46
+Learning rate:  0.001
+Train ACC: 98.424
+Test ACC: 91.770
+Attack success rate: 89.690
+
+Epoch: 47
+Learning rate:  0.001
+Train ACC: 98.508
+Test ACC: 91.580
+Attack success rate: 88.680
+
+Epoch: 48
+Learning rate:  0.001
+Train ACC: 98.503
+Test ACC: 92.410
+Attack success rate: 90.080
+
+Epoch: 49
+Learning rate:  0.001
+Train ACC: 98.466
+Test ACC: 91.480
+Attack success rate: 89.840
+==> Preparing data..
+Files already downloaded and verified
+Files already downloaded and verified
+==> Preparing data..
+Files already downloaded and verified
+Files already downloaded and verified
+==> Building model..
+
+Epoch: 0
+Learning rate:  0.001
+Train ACC: 39.965
+Test ACC: 52.700
+Attack success rate: 4.930
+
+Epoch: 1
+Learning rate:  0.001
+Train ACC: 57.914
+Test ACC: 63.350
+Attack success rate: 46.200
+
+Epoch: 2
+Learning rate:  0.001
+Train ACC: 70.092
+Test ACC: 74.450
+Attack success rate: 66.220
+
+Epoch: 3
+Learning rate:  0.001
+Train ACC: 76.224
+Test ACC: 77.930
+Attack success rate: 71.960
+
+Epoch: 4
+Learning rate:  0.001
+Train ACC: 79.923
+Test ACC: 81.820
+Attack success rate: 78.860
+
+Epoch: 5
+Learning rate:  0.001
+Train ACC: 82.516
+Test ACC: 81.730
+Attack success rate: 76.970
+
+Epoch: 6
+Learning rate:  0.001
+Train ACC: 84.563
+Test ACC: 84.630
+Attack success rate: 80.560
+
+Epoch: 7
+Learning rate:  0.001
+Train ACC: 86.194
+Test ACC: 83.400
+Attack success rate: 80.220
+
+Epoch: 8
+Learning rate:  0.001
+Train ACC: 87.422
+Test ACC: 85.710
+Attack success rate: 81.830
+
+Epoch: 9
+Learning rate:  0.001
+Train ACC: 88.629
+Test ACC: 87.630
+Attack success rate: 84.730
+
+Epoch: 10
+Learning rate:  0.001
+Train ACC: 89.519
+Test ACC: 87.760
+Attack success rate: 84.930
+
+Epoch: 11
+Learning rate:  0.001
+Train ACC: 90.444
+Test ACC: 88.310
+Attack success rate: 84.370
+
+Epoch: 12
+Learning rate:  0.001
+Train ACC: 91.090
+Test ACC: 89.090
+Attack success rate: 86.510
+
+Epoch: 13
+Learning rate:  0.001
+Train ACC: 91.873
+Test ACC: 88.710
+Attack success rate: 86.800
+
+Epoch: 14
+Learning rate:  0.001
+Train ACC: 92.481
+Test ACC: 88.790
+Attack success rate: 85.770
+
+Epoch: 15
+Learning rate:  0.001
+Train ACC: 93.007
+Test ACC: 89.980
+Attack success rate: 86.270
+
+Epoch: 16
+Learning rate:  0.001
+Train ACC: 93.554
+Test ACC: 89.900
+Attack success rate: 87.050
+
+Epoch: 17
+Learning rate:  0.001
+Train ACC: 93.802
+Test ACC: 90.450
+Attack success rate: 88.360
+
+Epoch: 18
+Learning rate:  0.001
+Train ACC: 94.336
+Test ACC: 90.230
+Attack success rate: 88.180
+
+Epoch: 19
+Learning rate:  0.001
+Train ACC: 94.822
+Test ACC: 90.320
+Attack success rate: 86.890
+
+Epoch: 20
+Learning rate:  0.001
+Train ACC: 95.099
+Test ACC: 90.810
+Attack success rate: 88.260
+
+Epoch: 21
+Learning rate:  0.001
+Train ACC: 95.470
+Test ACC: 90.650
+Attack success rate: 89.070
+
+Epoch: 22
+Learning rate:  0.001
+Train ACC: 95.690
+Test ACC: 90.240
+Attack success rate: 88.180
+
+Epoch: 23
+Learning rate:  0.001
+Train ACC: 95.850
+Test ACC: 90.900
+Attack success rate: 88.460
+
+Epoch: 24
+Learning rate:  0.001
+Train ACC: 96.105
+Test ACC: 91.360
+Attack success rate: 89.890
+
+Epoch: 25
+Learning rate:  0.001
+Train ACC: 96.402
+Test ACC: 90.610
+Attack success rate: 88.220
+
+Epoch: 26
+Learning rate:  0.001
+Train ACC: 96.591
+Test ACC: 91.550
+Attack success rate: 88.700
+
+Epoch: 27
+Learning rate:  0.001
+Train ACC: 96.695
+Test ACC: 91.190
+Attack success rate: 89.310
+
+Epoch: 28
+Learning rate:  0.001
+Train ACC: 96.994
+Test ACC: 90.970
+Attack success rate: 88.760
+
+Epoch: 29
+Learning rate:  0.001
+Train ACC: 97.114
+Test ACC: 91.520
+Attack success rate: 88.880
+
+Epoch: 30
+Learning rate:  0.001
+Train ACC: 97.233
+Test ACC: 90.660
+Attack success rate: 89.330
+
+Epoch: 31
+Learning rate:  0.001
+Train ACC: 97.259
+Test ACC: 91.240
+Attack success rate: 89.890
+
+Epoch: 32
+Learning rate:  0.001
+Train ACC: 97.428
+Test ACC: 91.510
+Attack success rate: 89.640
+
+Epoch: 33
+Learning rate:  0.001
+Train ACC: 97.517
+Test ACC: 91.240
+Attack success rate: 89.300
+
+Epoch: 34
+Learning rate:  0.001
+Train ACC: 97.620
+Test ACC: 91.630
+Attack success rate: 89.920
+
+Epoch: 35
+Learning rate:  0.001
+Train ACC: 97.780
+Test ACC: 91.770
+Attack success rate: 89.450
+
+Epoch: 36
+Learning rate:  0.001
+Train ACC: 97.862
+Test ACC: 91.760
+Attack success rate: 88.540
+
+Epoch: 37
+Learning rate:  0.001
+Train ACC: 97.888
+Test ACC: 91.450
+Attack success rate: 88.940
+
+Epoch: 38
+Learning rate:  0.001
+Train ACC: 97.974
+Test ACC: 91.210
+Attack success rate: 88.430
+
+Epoch: 39
+Learning rate:  0.001
+Train ACC: 98.097
+Test ACC: 91.690
+Attack success rate: 89.930
+
+Epoch: 40
+Learning rate:  0.001
+Train ACC: 98.150
+Test ACC: 91.510
+Attack success rate: 90.140
+
+Epoch: 41
+Learning rate:  0.001
+Train ACC: 98.128
+Test ACC: 91.980
+Attack success rate: 88.590
+
+Epoch: 42
+Learning rate:  0.001
+Train ACC: 98.156
+Test ACC: 92.090
+Attack success rate: 89.160
+
+Epoch: 43
+Learning rate:  0.001
+Train ACC: 98.347
+Test ACC: 91.520
+Attack success rate: 89.700
+
+Epoch: 44
+Learning rate:  0.001
+Train ACC: 98.400
+Test ACC: 91.790
+Attack success rate: 89.900
+
+Epoch: 45
+Learning rate:  0.001
+Train ACC: 98.360
+Test ACC: 91.900
+Attack success rate: 89.810
+
+Epoch: 46
+Learning rate:  0.001
+Train ACC: 98.417
+Test ACC: 91.720
+Attack success rate: 89.740
+
+Epoch: 47
+Learning rate:  0.001
+Train ACC: 98.389
+Test ACC: 91.690
+Attack success rate: 89.640
+
+Epoch: 48
+Learning rate:  0.001
+Train ACC: 98.450
+Test ACC: 92.050
+Attack success rate: 90.020
+
+Epoch: 49
+Learning rate:  0.001
+Train ACC: 98.538
+Test ACC: 91.840
+Attack success rate: 90.480

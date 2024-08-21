@@ -1,0 +1,63 @@
+----------------------------mitigate ------------------------------
+Files already downloaded and verified
+c: 0.864
+model0
+Files already downloaded and verified
+Test ACC: 88.989
+Attack success rate: 1.420
+
+
+Files already downloaded and verified
+c: 0.864
+model1
+Files already downloaded and verified
+Test ACC: 87.116
+Attack success rate: 1.430
+Files already downloaded and verified
+c: 0.864
+model2
+Files already downloaded and verified
+Test ACC: 89.905
+Attack success rate: 1.120
+Files already downloaded and verified
+c: 0.864
+model3
+Files already downloaded and verified
+Test ACC: 89.821
+Attack success rate: 0.930
+Files already downloaded and verified
+c: 0.864
+model4
+Files already downloaded and verified
+Test ACC: 89.863
+Attack success rate: 1.010
+Files already downloaded and verified
+c: 0.864
+model5
+Files already downloaded and verified
+Test ACC: 89.895
+Attack success rate: 1.280
+Files already downloaded and verified
+c: 0.864
+model6
+Files already downloaded and verified
+Test ACC: 89.684
+Attack success rate: 1.530
+Files already downloaded and verified
+c: 0.864
+model7
+Files already downloaded and verified
+Test ACC: 89.516
+Attack success rate: 1.350
+Files already downloaded and verified
+c: 0.864
+model8
+Files already downloaded and verified
+Test ACC: 89.463
+Attack success rate: 1.490
+Files already downloaded and verified
+c: 0.864
+model9
+Files already downloaded and verified
+Test ACC: 90.158
+Attack success rate: 0.970

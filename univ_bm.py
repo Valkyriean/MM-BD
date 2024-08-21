@@ -85,7 +85,7 @@ trainset = torch.utils.data.Subset(trainset, correct_idx)
 
 
 trainloader = torch.utils.data.DataLoader(
-    trainset, batch_size=200, shuffle=True, num_workers=2)
+    trainset, batch_size=200, shuffle=True, num_workers=0)
 
 optimizer = torch.optim.Adam( [network.clamp_w1, network.clamp_w2, network.clamp_w3], lr=0.1)
 criterion = nn.CrossEntropyLoss()
@@ -137,7 +137,7 @@ for s in range(10):
     ind = [i for i, label in enumerate(testset.targets) if label == s]
     all_ind += ind[50:]
 testset = torch.utils.data.Subset(testset, all_ind)
-testloader = torch.utils.data.DataLoader(testset, batch_size=100, shuffle=False, num_workers=2)
+testloader = torch.utils.data.DataLoader(testset, batch_size=100, shuffle=False, num_workers=0)
 
 correct = 0
 total = 0
@@ -164,7 +164,7 @@ for i in range(len(test_images_attacks)):
         est_images_attacks[i] = transforms.Normalize((0.4914, 0.4822, 0.4465), (0.2023, 0.1994, 0.2010))(test_images_attacks[i])
 '''
 testset_attacks = torch.utils.data.TensorDataset(test_images_attacks, test_labels_attacks)
-attackloader = torch.utils.data.DataLoader(testset_attacks, batch_size=100, shuffle=False, num_workers=2)
+attackloader = torch.utils.data.DataLoader(testset_attacks, batch_size=100, shuffle=False, num_workers=0)
 
 # Evaluate attack success rate
 correct = 0

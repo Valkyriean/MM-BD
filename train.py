@@ -19,6 +19,10 @@ import sys
 
 from src.resnet import ResNet18
 import time
+# if __name__ == '__main__':
+#     import torch.multiprocessing as mp
+#     mp.set_start_method('spawn', force=True)
+    
 parser = argparse.ArgumentParser(description='PyTorch CIFAR10 Training (with backdoor)')
 parser.add_argument('--lr', default=0.001, type=float, help='learning rate')
 
@@ -27,7 +31,8 @@ parser.add_argument('--model_dir', default='example_model',
 args = parser.parse_args()
 
 model_dir = args.model_dir
-device = 'cuda' if torch.cuda.is_available() else 'cpu'
+device = 'cuda' if torch.cuda.is_available() else 'mps'
+# device = 'mps'
 best_acc = 0  # best test accuracy
 start_epoch = 0  # start from epoch 0 or last checkpoint epoch
 
@@ -58,8 +63,8 @@ for i in range(len(test_images_attacks)):
 
 
 # Load in the datasets
-trainloader = torch.utils.data.DataLoader(trainset, batch_size=128, shuffle=True, num_workers=2)
-testloader = torch.utils.data.DataLoader(testset, batch_size=100, shuffle=False, num_workers=2)
+trainloader = torch.utils.data.DataLoader(trainset, batch_size=128, shuffle=True, num_workers=0)
+testloader = torch.utils.data.DataLoader(testset, batch_size=100, shuffle=False, num_workers=0)
 
 classes = ('plane', 'car', 'bird', 'cat', 'deer', 'dog', 'frog', 'horse', 'ship', 'truck')
 

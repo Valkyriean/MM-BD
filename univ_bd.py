@@ -29,7 +29,7 @@ parser.add_argument('--model_dir', default='model1', help='model path')
 #parser.add_argument('--data_path', '-d', required=True, help='data path')
 args = parser.parse_args()
 
-device = 'cuda' if torch.cuda.is_available() else 'cpu'
+device = 'cuda' if torch.cuda.is_available() else 'mps'
 
 random.seed()
 

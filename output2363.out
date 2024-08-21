@@ -1,0 +1,2541 @@
+----------------------------start training ------------------------------
+==> Preparing data..
+Files already downloaded and verified
+Files already downloaded and verified
+==> Building model..
+
+Epoch: 0
+Learning rate:  0.001
+Train ACC: 45.510
+Test ACC: 46.840
+
+Epoch: 1
+Learning rate:  0.001
+Train ACC: 63.658
+Test ACC: 68.010
+
+Epoch: 2
+Learning rate:  0.001
+Train ACC: 72.196
+Test ACC: 67.190
+
+Epoch: 3
+Learning rate:  0.001
+Train ACC: 77.404
+Test ACC: 77.270
+
+Epoch: 4
+Learning rate:  0.001
+Train ACC: 80.476
+Test ACC: 72.980
+
+Epoch: 5
+Learning rate:  0.001
+Train ACC: 82.844
+Test ACC: 81.000
+
+Epoch: 6
+Learning rate:  0.001
+Train ACC: 84.520
+Test ACC: 82.350
+
+Epoch: 7
+Learning rate:  0.001
+Train ACC: 86.110
+Test ACC: 84.190
+
+Epoch: 8
+Learning rate:  0.001
+Train ACC: 87.576
+Test ACC: 84.260
+
+Epoch: 9
+Learning rate:  0.001
+Train ACC: 88.222
+Test ACC: 84.890
+
+Epoch: 10
+Learning rate:  0.001
+Train ACC: 89.362
+Test ACC: 86.600
+
+Epoch: 11
+Learning rate:  0.001
+Train ACC: 89.986
+Test ACC: 87.570
+
+Epoch: 12
+Learning rate:  0.001
+Train ACC: 90.774
+Test ACC: 83.560
+
+Epoch: 13
+Learning rate:  0.001
+Train ACC: 91.422
+Test ACC: 87.370
+
+Epoch: 14
+Learning rate:  0.001
+Train ACC: 92.008
+Test ACC: 87.680
+
+Epoch: 15
+Learning rate:  0.001
+Train ACC: 92.660
+Test ACC: 89.520
+
+Epoch: 16
+Learning rate:  0.001
+Train ACC: 92.950
+Test ACC: 87.880
+
+Epoch: 17
+Learning rate:  0.001
+Train ACC: 93.502
+Test ACC: 87.030
+
+Epoch: 18
+Learning rate:  0.001
+Train ACC: 93.812
+Test ACC: 88.970
+
+Epoch: 19
+Learning rate:  0.001
+Train ACC: 94.348
+Test ACC: 87.890
+
+Epoch: 20
+Learning rate:  0.001
+Train ACC: 94.580
+Test ACC: 89.320
+
+Epoch: 21
+Learning rate:  0.001
+Train ACC: 95.034
+Test ACC: 89.000
+
+Epoch: 22
+Learning rate:  0.001
+Train ACC: 95.394
+Test ACC: 89.640
+
+Epoch: 23
+Learning rate:  0.001
+Train ACC: 95.496
+Test ACC: 90.270
+
+Epoch: 24
+Learning rate:  0.001
+Train ACC: 95.882
+Test ACC: 89.900
+
+Epoch: 25
+Learning rate:  0.001
+Train ACC: 96.058
+Test ACC: 88.490
+
+Epoch: 26
+Learning rate:  0.001
+Train ACC: 96.212
+Test ACC: 90.730
+
+Epoch: 27
+Learning rate:  0.001
+Train ACC: 96.426
+Test ACC: 90.330
+
+Epoch: 28
+Learning rate:  0.001
+Train ACC: 96.608
+Test ACC: 89.920
+
+Epoch: 29
+Learning rate:  0.001
+Train ACC: 96.794
+Test ACC: 89.810
+
+Epoch: 30
+Learning rate:  0.001
+Train ACC: 96.932
+Test ACC: 89.830
+
+Epoch: 31
+Learning rate:  0.001
+Train ACC: 97.074
+Test ACC: 89.510
+
+Epoch: 32
+Learning rate:  0.001
+Train ACC: 97.286
+Test ACC: 90.000
+
+Epoch: 33
+Learning rate:  0.001
+Train ACC: 97.378
+Test ACC: 91.040
+
+Epoch: 34
+Learning rate:  0.001
+Train ACC: 97.422
+Test ACC: 89.840
+
+Epoch: 35
+Learning rate:  0.001
+Train ACC: 97.680
+Test ACC: 91.200
+
+Epoch: 36
+Learning rate:  0.001
+Train ACC: 97.680
+Test ACC: 91.150
+
+Epoch: 37
+Learning rate:  0.001
+Train ACC: 97.820
+Test ACC: 91.130
+
+Epoch: 38
+Learning rate:  0.001
+Train ACC: 97.928
+Test ACC: 90.780
+
+Epoch: 39
+Learning rate:  0.001
+Train ACC: 98.040
+Test ACC: 90.420
+
+Epoch: 40
+Learning rate:  0.001
+Train ACC: 98.016
+Test ACC: 91.280
+
+Epoch: 41
+Learning rate:  0.001
+Train ACC: 98.128
+Test ACC: 91.060
+
+Epoch: 42
+Learning rate:  0.001
+Train ACC: 98.130
+Test ACC: 91.990
+
+Epoch: 43
+Learning rate:  0.001
+Train ACC: 98.238
+Test ACC: 91.790
+
+Epoch: 44
+Learning rate:  0.001
+Train ACC: 98.316
+Test ACC: 91.130
+
+Epoch: 45
+Learning rate:  0.001
+Train ACC: 98.378
+Test ACC: 91.220
+
+Epoch: 46
+Learning rate:  0.001
+Train ACC: 98.376
+Test ACC: 90.770
+
+Epoch: 47
+Learning rate:  0.001
+Train ACC: 98.368
+Test ACC: 90.670
+
+Epoch: 48
+Learning rate:  0.001
+Train ACC: 98.474
+Test ACC: 90.570
+
+Epoch: 49
+Learning rate:  0.001
+Train ACC: 98.550
+Test ACC: 91.120
+==> Preparing data..
+Files already downloaded and verified
+Files already downloaded and verified
+==> Building model..
+
+Epoch: 0
+Learning rate:  0.001
+Train ACC: 47.448
+Test ACC: 59.630
+
+Epoch: 1
+Learning rate:  0.001
+Train ACC: 64.570
+Test ACC: 58.630
+
+Epoch: 2
+Learning rate:  0.001
+Train ACC: 73.054
+Test ACC: 69.500
+
+Epoch: 3
+Learning rate:  0.001
+Train ACC: 77.756
+Test ACC: 69.870
+
+Epoch: 4
+Learning rate:  0.001
+Train ACC: 80.932
+Test ACC: 77.940
+
+Epoch: 5
+Learning rate:  0.001
+Train ACC: 83.352
+Test ACC: 78.260
+
+Epoch: 6
+Learning rate:  0.001
+Train ACC: 85.092
+Test ACC: 81.750
+
+Epoch: 7
+Learning rate:  0.001
+Train ACC: 86.370
+Test ACC: 85.030
+
+Epoch: 8
+Learning rate:  0.001
+Train ACC: 87.830
+Test ACC: 83.530
+
+Epoch: 9
+Learning rate:  0.001
+Train ACC: 88.744
+Test ACC: 85.380
+
+Epoch: 10
+Learning rate:  0.001
+Train ACC: 89.662
+Test ACC: 85.970
+
+Epoch: 11
+Learning rate:  0.001
+Train ACC: 90.404
+Test ACC: 86.570
+
+Epoch: 12
+Learning rate:  0.001
+Train ACC: 90.938
+Test ACC: 85.520
+
+Epoch: 13
+Learning rate:  0.001
+Train ACC: 91.772
+Test ACC: 88.670
+
+Epoch: 14
+Learning rate:  0.001
+Train ACC: 92.250
+Test ACC: 89.030
+
+Epoch: 15
+Learning rate:  0.001
+Train ACC: 92.692
+Test ACC: 87.750
+
+Epoch: 16
+Learning rate:  0.001
+Train ACC: 93.274
+Test ACC: 88.300
+
+Epoch: 17
+Learning rate:  0.001
+Train ACC: 93.866
+Test ACC: 87.450
+
+Epoch: 18
+Learning rate:  0.001
+Train ACC: 94.094
+Test ACC: 89.860
+
+Epoch: 19
+Learning rate:  0.001
+Train ACC: 94.642
+Test ACC: 89.130
+
+Epoch: 20
+Learning rate:  0.001
+Train ACC: 94.734
+Test ACC: 89.570
+
+Epoch: 21
+Learning rate:  0.001
+Train ACC: 95.014
+Test ACC: 88.140
+
+Epoch: 22
+Learning rate:  0.001
+Train ACC: 95.438
+Test ACC: 89.140
+
+Epoch: 23
+Learning rate:  0.001
+Train ACC: 95.732
+Test ACC: 90.130
+
+Epoch: 24
+Learning rate:  0.001
+Train ACC: 95.874
+Test ACC: 90.060
+
+Epoch: 25
+Learning rate:  0.001
+Train ACC: 96.340
+Test ACC: 88.990
+
+Epoch: 26
+Learning rate:  0.001
+Train ACC: 96.534
+Test ACC: 90.550
+
+Epoch: 27
+Learning rate:  0.001
+Train ACC: 96.482
+Test ACC: 91.100
+
+Epoch: 28
+Learning rate:  0.001
+Train ACC: 96.706
+Test ACC: 90.920
+
+Epoch: 29
+Learning rate:  0.001
+Train ACC: 96.942
+Test ACC: 90.770
+
+Epoch: 30
+Learning rate:  0.001
+Train ACC: 97.048
+Test ACC: 90.650
+
+Epoch: 31
+Learning rate:  0.001
+Train ACC: 97.154
+Test ACC: 91.340
+
+Epoch: 32
+Learning rate:  0.001
+Train ACC: 97.154
+Test ACC: 90.730
+
+Epoch: 33
+Learning rate:  0.001
+Train ACC: 97.472
+Test ACC: 91.190
+
+Epoch: 34
+Learning rate:  0.001
+Train ACC: 97.586
+Test ACC: 91.210
+
+Epoch: 35
+Learning rate:  0.001
+Train ACC: 97.608
+Test ACC: 90.520
+
+Epoch: 36
+Learning rate:  0.001
+Train ACC: 97.772
+Test ACC: 91.330
+
+Epoch: 37
+Learning rate:  0.001
+Train ACC: 97.916
+Test ACC: 90.410
+
+Epoch: 38
+Learning rate:  0.001
+Train ACC: 97.986
+Test ACC: 91.520
+
+Epoch: 39
+Learning rate:  0.001
+Train ACC: 98.046
+Test ACC: 91.190
+
+Epoch: 40
+Learning rate:  0.001
+Train ACC: 98.066
+Test ACC: 91.130
+
+Epoch: 41
+Learning rate:  0.001
+Train ACC: 98.120
+Test ACC: 90.680
+
+Epoch: 42
+Learning rate:  0.001
+Train ACC: 98.152
+Test ACC: 91.450
+
+Epoch: 43
+Learning rate:  0.001
+Train ACC: 98.248
+Test ACC: 90.980
+
+Epoch: 44
+Learning rate:  0.001
+Train ACC: 98.342
+Test ACC: 91.570
+
+Epoch: 45
+Learning rate:  0.001
+Train ACC: 98.422
+Test ACC: 92.560
+
+Epoch: 46
+Learning rate:  0.001
+Train ACC: 98.394
+Test ACC: 90.980
+
+Epoch: 47
+Learning rate:  0.001
+Train ACC: 98.570
+Test ACC: 91.490
+
+Epoch: 48
+Learning rate:  0.001
+Train ACC: 98.464
+Test ACC: 91.830
+
+Epoch: 49
+Learning rate:  0.001
+Train ACC: 98.468
+Test ACC: 91.450
+==> Preparing data..
+Files already downloaded and verified
+Files already downloaded and verified
+==> Building model..
+
+Epoch: 0
+Learning rate:  0.001
+Train ACC: 44.942
+Test ACC: 45.680
+
+Epoch: 1
+Learning rate:  0.001
+Train ACC: 62.480
+Test ACC: 59.630
+
+Epoch: 2
+Learning rate:  0.001
+Train ACC: 70.108
+Test ACC: 71.470
+
+Epoch: 3
+Learning rate:  0.001
+Train ACC: 75.898
+Test ACC: 76.770
+
+Epoch: 4
+Learning rate:  0.001
+Train ACC: 79.408
+Test ACC: 77.410
+
+Epoch: 5
+Learning rate:  0.001
+Train ACC: 82.126
+Test ACC: 70.520
+
+Epoch: 6
+Learning rate:  0.001
+Train ACC: 84.166
+Test ACC: 82.980
+
+Epoch: 7
+Learning rate:  0.001
+Train ACC: 85.792
+Test ACC: 83.480
+
+Epoch: 8
+Learning rate:  0.001
+Train ACC: 87.022
+Test ACC: 82.760
+
+Epoch: 9
+Learning rate:  0.001
+Train ACC: 87.884
+Test ACC: 85.400
+
+Epoch: 10
+Learning rate:  0.001
+Train ACC: 88.994
+Test ACC: 83.950
+
+Epoch: 11
+Learning rate:  0.001
+Train ACC: 89.784
+Test ACC: 82.900
+
+Epoch: 12
+Learning rate:  0.001
+Train ACC: 90.482
+Test ACC: 85.080
+
+Epoch: 13
+Learning rate:  0.001
+Train ACC: 91.138
+Test ACC: 86.600
+
+Epoch: 14
+Learning rate:  0.001
+Train ACC: 91.726
+Test ACC: 85.860
+
+Epoch: 15
+Learning rate:  0.001
+Train ACC: 92.384
+Test ACC: 88.870
+
+Epoch: 16
+Learning rate:  0.001
+Train ACC: 92.796
+Test ACC: 86.060
+
+Epoch: 17
+Learning rate:  0.001
+Train ACC: 93.326
+Test ACC: 89.150
+
+Epoch: 18
+Learning rate:  0.001
+Train ACC: 93.918
+Test ACC: 88.430
+
+Epoch: 19
+Learning rate:  0.001
+Train ACC: 94.090
+Test ACC: 89.220
+
+Epoch: 20
+Learning rate:  0.001
+Train ACC: 94.440
+Test ACC: 89.820
+
+Epoch: 21
+Learning rate:  0.001
+Train ACC: 94.818
+Test ACC: 88.860
+
+Epoch: 22
+Learning rate:  0.001
+Train ACC: 95.138
+Test ACC: 89.420
+
+Epoch: 23
+Learning rate:  0.001
+Train ACC: 95.444
+Test ACC: 90.050
+
+Epoch: 24
+Learning rate:  0.001
+Train ACC: 95.666
+Test ACC: 90.000
+
+Epoch: 25
+Learning rate:  0.001
+Train ACC: 96.002
+Test ACC: 89.560
+
+Epoch: 26
+Learning rate:  0.001
+Train ACC: 96.332
+Test ACC: 88.850
+
+Epoch: 27
+Learning rate:  0.001
+Train ACC: 96.410
+Test ACC: 89.880
+
+Epoch: 28
+Learning rate:  0.001
+Train ACC: 96.518
+Test ACC: 90.120
+
+Epoch: 29
+Learning rate:  0.001
+Train ACC: 96.738
+Test ACC: 90.610
+
+Epoch: 30
+Learning rate:  0.001
+Train ACC: 96.924
+Test ACC: 90.390
+
+Epoch: 31
+Learning rate:  0.001
+Train ACC: 96.990
+Test ACC: 90.600
+
+Epoch: 32
+Learning rate:  0.001
+Train ACC: 97.272
+Test ACC: 90.180
+
+Epoch: 33
+Learning rate:  0.001
+Train ACC: 97.294
+Test ACC: 91.240
+
+Epoch: 34
+Learning rate:  0.001
+Train ACC: 97.498
+Test ACC: 90.410
+
+Epoch: 35
+Learning rate:  0.001
+Train ACC: 97.574
+Test ACC: 91.510
+
+Epoch: 36
+Learning rate:  0.001
+Train ACC: 97.666
+Test ACC: 89.570
+
+Epoch: 37
+Learning rate:  0.001
+Train ACC: 97.736
+Test ACC: 90.730
+
+Epoch: 38
+Learning rate:  0.001
+Train ACC: 97.682
+Test ACC: 91.460
+
+Epoch: 39
+Learning rate:  0.001
+Train ACC: 97.944
+Test ACC: 90.520
+
+Epoch: 40
+Learning rate:  0.001
+Train ACC: 97.990
+Test ACC: 91.010
+
+Epoch: 41
+Learning rate:  0.001
+Train ACC: 98.084
+Test ACC: 91.100
+
+Epoch: 42
+Learning rate:  0.001
+Train ACC: 98.170
+Test ACC: 91.300
+
+Epoch: 43
+Learning rate:  0.001
+Train ACC: 98.106
+Test ACC: 91.530
+
+Epoch: 44
+Learning rate:  0.001
+Train ACC: 98.292
+Test ACC: 90.760
+
+Epoch: 45
+Learning rate:  0.001
+Train ACC: 98.270
+Test ACC: 91.120
+
+Epoch: 46
+Learning rate:  0.001
+Train ACC: 98.412
+Test ACC: 90.470
+
+Epoch: 47
+Learning rate:  0.001
+Train ACC: 98.446
+Test ACC: 91.130
+
+Epoch: 48
+Learning rate:  0.001
+Train ACC: 98.570
+Test ACC: 90.810
+
+Epoch: 49
+Learning rate:  0.001
+Train ACC: 98.608
+Test ACC: 91.680
+==> Preparing data..
+Files already downloaded and verified
+Files already downloaded and verified
+==> Building model..
+
+Epoch: 0
+Learning rate:  0.001
+Train ACC: 44.994
+Test ACC: 45.090
+
+Epoch: 1
+Learning rate:  0.001
+Train ACC: 63.820
+Test ACC: 66.400
+
+Epoch: 2
+Learning rate:  0.001
+Train ACC: 72.134
+Test ACC: 70.870
+
+Epoch: 3
+Learning rate:  0.001
+Train ACC: 77.182
+Test ACC: 74.890
+
+Epoch: 4
+Learning rate:  0.001
+Train ACC: 80.372
+Test ACC: 78.740
+
+Epoch: 5
+Learning rate:  0.001
+Train ACC: 82.578
+Test ACC: 80.430
+
+Epoch: 6
+Learning rate:  0.001
+Train ACC: 84.146
+Test ACC: 81.600
+
+Epoch: 7
+Learning rate:  0.001
+Train ACC: 86.096
+Test ACC: 84.100
+
+Epoch: 8
+Learning rate:  0.001
+Train ACC: 87.218
+Test ACC: 81.710
+
+Epoch: 9
+Learning rate:  0.001
+Train ACC: 88.082
+Test ACC: 84.470
+
+Epoch: 10
+Learning rate:  0.001
+Train ACC: 89.158
+Test ACC: 85.580
+
+Epoch: 11
+Learning rate:  0.001
+Train ACC: 89.940
+Test ACC: 87.160
+
+Epoch: 12
+Learning rate:  0.001
+Train ACC: 90.822
+Test ACC: 87.430
+
+Epoch: 13
+Learning rate:  0.001
+Train ACC: 91.324
+Test ACC: 86.350
+
+Epoch: 14
+Learning rate:  0.001
+Train ACC: 92.080
+Test ACC: 87.250
+
+Epoch: 15
+Learning rate:  0.001
+Train ACC: 92.380
+Test ACC: 88.420
+
+Epoch: 16
+Learning rate:  0.001
+Train ACC: 92.872
+Test ACC: 87.350
+
+Epoch: 17
+Learning rate:  0.001
+Train ACC: 93.356
+Test ACC: 86.760
+
+Epoch: 18
+Learning rate:  0.001
+Train ACC: 93.762
+Test ACC: 88.810
+
+Epoch: 19
+Learning rate:  0.001
+Train ACC: 94.192
+Test ACC: 88.130
+
+Epoch: 20
+Learning rate:  0.001
+Train ACC: 94.574
+Test ACC: 89.740
+
+Epoch: 21
+Learning rate:  0.001
+Train ACC: 95.062
+Test ACC: 88.490
+
+Epoch: 22
+Learning rate:  0.001
+Train ACC: 95.172
+Test ACC: 90.050
+
+Epoch: 23
+Learning rate:  0.001
+Train ACC: 95.576
+Test ACC: 89.670
+
+Epoch: 24
+Learning rate:  0.001
+Train ACC: 95.788
+Test ACC: 88.610
+
+Epoch: 25
+Learning rate:  0.001
+Train ACC: 96.078
+Test ACC: 90.180
+
+Epoch: 26
+Learning rate:  0.001
+Train ACC: 96.248
+Test ACC: 90.840
+
+Epoch: 27
+Learning rate:  0.001
+Train ACC: 96.436
+Test ACC: 89.770
+
+Epoch: 28
+Learning rate:  0.001
+Train ACC: 96.476
+Test ACC: 87.070
+
+Epoch: 29
+Learning rate:  0.001
+Train ACC: 96.714
+Test ACC: 91.390
+
+Epoch: 30
+Learning rate:  0.001
+Train ACC: 96.906
+Test ACC: 90.930
+
+Epoch: 31
+Learning rate:  0.001
+Train ACC: 97.118
+Test ACC: 89.610
+
+Epoch: 32
+Learning rate:  0.001
+Train ACC: 97.254
+Test ACC: 91.370
+
+Epoch: 33
+Learning rate:  0.001
+Train ACC: 97.466
+Test ACC: 90.010
+
+Epoch: 34
+Learning rate:  0.001
+Train ACC: 97.558
+Test ACC: 90.750
+
+Epoch: 35
+Learning rate:  0.001
+Train ACC: 97.674
+Test ACC: 90.600
+
+Epoch: 36
+Learning rate:  0.001
+Train ACC: 97.642
+Test ACC: 90.380
+
+Epoch: 37
+Learning rate:  0.001
+Train ACC: 97.760
+Test ACC: 90.980
+
+Epoch: 38
+Learning rate:  0.001
+Train ACC: 97.878
+Test ACC: 91.370
+
+Epoch: 39
+Learning rate:  0.001
+Train ACC: 97.996
+Test ACC: 90.540
+
+Epoch: 40
+Learning rate:  0.001
+Train ACC: 97.884
+Test ACC: 90.850
+
+Epoch: 41
+Learning rate:  0.001
+Train ACC: 98.106
+Test ACC: 92.000
+
+Epoch: 42
+Learning rate:  0.001
+Train ACC: 98.136
+Test ACC: 91.440
+
+Epoch: 43
+Learning rate:  0.001
+Train ACC: 98.214
+Test ACC: 90.810
+
+Epoch: 44
+Learning rate:  0.001
+Train ACC: 98.338
+Test ACC: 90.410
+
+Epoch: 45
+Learning rate:  0.001
+Train ACC: 98.360
+Test ACC: 91.650
+
+Epoch: 46
+Learning rate:  0.001
+Train ACC: 98.376
+Test ACC: 91.960
+
+Epoch: 47
+Learning rate:  0.001
+Train ACC: 98.432
+Test ACC: 91.050
+
+Epoch: 48
+Learning rate:  0.001
+Train ACC: 98.480
+Test ACC: 91.620
+
+Epoch: 49
+Learning rate:  0.001
+Train ACC: 98.460
+Test ACC: 91.390
+==> Preparing data..
+Files already downloaded and verified
+Files already downloaded and verified
+==> Building model..
+
+Epoch: 0
+Learning rate:  0.001
+Train ACC: 44.790
+Test ACC: 50.280
+
+Epoch: 1
+Learning rate:  0.001
+Train ACC: 61.422
+Test ACC: 59.980
+
+Epoch: 2
+Learning rate:  0.001
+Train ACC: 69.292
+Test ACC: 71.670
+
+Epoch: 3
+Learning rate:  0.001
+Train ACC: 74.450
+Test ACC: 73.570
+
+Epoch: 4
+Learning rate:  0.001
+Train ACC: 78.626
+Test ACC: 78.390
+
+Epoch: 5
+Learning rate:  0.001
+Train ACC: 81.246
+Test ACC: 77.420
+
+Epoch: 6
+Learning rate:  0.001
+Train ACC: 83.500
+Test ACC: 76.150
+
+Epoch: 7
+Learning rate:  0.001
+Train ACC: 85.194
+Test ACC: 83.390
+
+Epoch: 8
+Learning rate:  0.001
+Train ACC: 86.264
+Test ACC: 85.100
+
+Epoch: 9
+Learning rate:  0.001
+Train ACC: 87.266
+Test ACC: 83.770
+
+Epoch: 10
+Learning rate:  0.001
+Train ACC: 88.416
+Test ACC: 85.760
+
+Epoch: 11
+Learning rate:  0.001
+Train ACC: 89.198
+Test ACC: 86.280
+
+Epoch: 12
+Learning rate:  0.001
+Train ACC: 89.942
+Test ACC: 85.970
+
+Epoch: 13
+Learning rate:  0.001
+Train ACC: 90.552
+Test ACC: 86.660
+
+Epoch: 14
+Learning rate:  0.001
+Train ACC: 91.330
+Test ACC: 85.860
+
+Epoch: 15
+Learning rate:  0.001
+Train ACC: 91.842
+Test ACC: 87.660
+
+Epoch: 16
+Learning rate:  0.001
+Train ACC: 92.454
+Test ACC: 88.970
+
+Epoch: 17
+Learning rate:  0.001
+Train ACC: 92.938
+Test ACC: 88.290
+
+Epoch: 18
+Learning rate:  0.001
+Train ACC: 93.246
+Test ACC: 88.160
+
+Epoch: 19
+Learning rate:  0.001
+Train ACC: 93.806
+Test ACC: 88.290
+
+Epoch: 20
+Learning rate:  0.001
+Train ACC: 94.090
+Test ACC: 88.790
+
+Epoch: 21
+Learning rate:  0.001
+Train ACC: 94.526
+Test ACC: 89.400
+
+Epoch: 22
+Learning rate:  0.001
+Train ACC: 94.830
+Test ACC: 88.760
+
+Epoch: 23
+Learning rate:  0.001
+Train ACC: 95.224
+Test ACC: 89.820
+
+Epoch: 24
+Learning rate:  0.001
+Train ACC: 95.414
+Test ACC: 89.600
+
+Epoch: 25
+Learning rate:  0.001
+Train ACC: 95.648
+Test ACC: 89.870
+
+Epoch: 26
+Learning rate:  0.001
+Train ACC: 95.712
+Test ACC: 89.470
+
+Epoch: 27
+Learning rate:  0.001
+Train ACC: 96.096
+Test ACC: 89.550
+
+Epoch: 28
+Learning rate:  0.001
+Train ACC: 96.394
+Test ACC: 90.340
+
+Epoch: 29
+Learning rate:  0.001
+Train ACC: 96.556
+Test ACC: 89.770
+
+Epoch: 30
+Learning rate:  0.001
+Train ACC: 96.694
+Test ACC: 90.530
+
+Epoch: 31
+Learning rate:  0.001
+Train ACC: 96.848
+Test ACC: 90.330
+
+Epoch: 32
+Learning rate:  0.001
+Train ACC: 96.872
+Test ACC: 91.030
+
+Epoch: 33
+Learning rate:  0.001
+Train ACC: 97.162
+Test ACC: 90.010
+
+Epoch: 34
+Learning rate:  0.001
+Train ACC: 97.266
+Test ACC: 90.850
+
+Epoch: 35
+Learning rate:  0.001
+Train ACC: 97.400
+Test ACC: 90.500
+
+Epoch: 36
+Learning rate:  0.001
+Train ACC: 97.570
+Test ACC: 90.570
+
+Epoch: 37
+Learning rate:  0.001
+Train ACC: 97.614
+Test ACC: 90.900
+
+Epoch: 38
+Learning rate:  0.001
+Train ACC: 97.898
+Test ACC: 90.110
+
+Epoch: 39
+Learning rate:  0.001
+Train ACC: 97.762
+Test ACC: 90.610
+
+Epoch: 40
+Learning rate:  0.001
+Train ACC: 97.898
+Test ACC: 90.830
+
+Epoch: 41
+Learning rate:  0.001
+Train ACC: 97.916
+Test ACC: 91.200
+
+Epoch: 42
+Learning rate:  0.001
+Train ACC: 98.010
+Test ACC: 91.260
+
+Epoch: 43
+Learning rate:  0.001
+Train ACC: 98.012
+Test ACC: 90.010
+
+Epoch: 44
+Learning rate:  0.001
+Train ACC: 98.138
+Test ACC: 91.570
+
+Epoch: 45
+Learning rate:  0.001
+Train ACC: 98.186
+Test ACC: 91.170
+
+Epoch: 46
+Learning rate:  0.001
+Train ACC: 98.310
+Test ACC: 91.320
+
+Epoch: 47
+Learning rate:  0.001
+Train ACC: 98.348
+Test ACC: 90.670
+
+Epoch: 48
+Learning rate:  0.001
+Train ACC: 98.386
+Test ACC: 91.010
+
+Epoch: 49
+Learning rate:  0.001
+Train ACC: 98.410
+Test ACC: 91.200
+==> Preparing data..
+Files already downloaded and verified
+Files already downloaded and verified
+==> Building model..
+
+Epoch: 0
+Learning rate:  0.001
+Train ACC: 46.648
+Test ACC: 57.470
+
+Epoch: 1
+Learning rate:  0.001
+Train ACC: 64.072
+Test ACC: 68.430
+
+Epoch: 2
+Learning rate:  0.001
+Train ACC: 72.234
+Test ACC: 71.530
+
+Epoch: 3
+Learning rate:  0.001
+Train ACC: 77.342
+Test ACC: 73.220
+
+Epoch: 4
+Learning rate:  0.001
+Train ACC: 80.572
+Test ACC: 79.870
+
+Epoch: 5
+Learning rate:  0.001
+Train ACC: 82.730
+Test ACC: 81.850
+
+Epoch: 6
+Learning rate:  0.001
+Train ACC: 84.520
+Test ACC: 79.970
+
+Epoch: 7
+Learning rate:  0.001
+Train ACC: 85.892
+Test ACC: 79.390
+
+Epoch: 8
+Learning rate:  0.001
+Train ACC: 87.004
+Test ACC: 82.620
+
+Epoch: 9
+Learning rate:  0.001
+Train ACC: 88.030
+Test ACC: 85.810
+
+Epoch: 10
+Learning rate:  0.001
+Train ACC: 89.000
+Test ACC: 85.820
+
+Epoch: 11
+Learning rate:  0.001
+Train ACC: 89.670
+Test ACC: 83.620
+
+Epoch: 12
+Learning rate:  0.001
+Train ACC: 90.504
+Test ACC: 86.220
+
+Epoch: 13
+Learning rate:  0.001
+Train ACC: 90.948
+Test ACC: 87.750
+
+Epoch: 14
+Learning rate:  0.001
+Train ACC: 91.758
+Test ACC: 87.430
+
+Epoch: 15
+Learning rate:  0.001
+Train ACC: 92.196
+Test ACC: 88.110
+
+Epoch: 16
+Learning rate:  0.001
+Train ACC: 92.720
+Test ACC: 88.890
+
+Epoch: 17
+Learning rate:  0.001
+Train ACC: 93.160
+Test ACC: 88.680
+
+Epoch: 18
+Learning rate:  0.001
+Train ACC: 93.496
+Test ACC: 89.350
+
+Epoch: 19
+Learning rate:  0.001
+Train ACC: 93.918
+Test ACC: 89.320
+
+Epoch: 20
+Learning rate:  0.001
+Train ACC: 94.390
+Test ACC: 88.580
+
+Epoch: 21
+Learning rate:  0.001
+Train ACC: 94.608
+Test ACC: 88.880
+
+Epoch: 22
+Learning rate:  0.001
+Train ACC: 95.110
+Test ACC: 89.340
+
+Epoch: 23
+Learning rate:  0.001
+Train ACC: 95.356
+Test ACC: 89.530
+
+Epoch: 24
+Learning rate:  0.001
+Train ACC: 95.534
+Test ACC: 90.530
+
+Epoch: 25
+Learning rate:  0.001
+Train ACC: 95.798
+Test ACC: 90.300
+
+Epoch: 26
+Learning rate:  0.001
+Train ACC: 96.032
+Test ACC: 90.540
+
+Epoch: 27
+Learning rate:  0.001
+Train ACC: 96.334
+Test ACC: 90.810
+
+Epoch: 28
+Learning rate:  0.001
+Train ACC: 96.440
+Test ACC: 89.390
+
+Epoch: 29
+Learning rate:  0.001
+Train ACC: 96.620
+Test ACC: 89.820
+
+Epoch: 30
+Learning rate:  0.001
+Train ACC: 96.878
+Test ACC: 90.600
+
+Epoch: 31
+Learning rate:  0.001
+Train ACC: 96.862
+Test ACC: 90.560
+
+Epoch: 32
+Learning rate:  0.001
+Train ACC: 97.148
+Test ACC: 89.520
+
+Epoch: 33
+Learning rate:  0.001
+Train ACC: 97.256
+Test ACC: 91.110
+
+Epoch: 34
+Learning rate:  0.001
+Train ACC: 97.414
+Test ACC: 91.110
+
+Epoch: 35
+Learning rate:  0.001
+Train ACC: 97.426
+Test ACC: 89.610
+
+Epoch: 36
+Learning rate:  0.001
+Train ACC: 97.480
+Test ACC: 90.470
+
+Epoch: 37
+Learning rate:  0.001
+Train ACC: 97.640
+Test ACC: 89.940
+
+Epoch: 38
+Learning rate:  0.001
+Train ACC: 97.850
+Test ACC: 90.800
+
+Epoch: 39
+Learning rate:  0.001
+Train ACC: 97.862
+Test ACC: 90.880
+
+Epoch: 40
+Learning rate:  0.001
+Train ACC: 97.936
+Test ACC: 91.100
+
+Epoch: 41
+Learning rate:  0.001
+Train ACC: 98.068
+Test ACC: 91.510
+
+Epoch: 42
+Learning rate:  0.001
+Train ACC: 98.160
+Test ACC: 91.770
+
+Epoch: 43
+Learning rate:  0.001
+Train ACC: 98.202
+Test ACC: 91.110
+
+Epoch: 44
+Learning rate:  0.001
+Train ACC: 98.178
+Test ACC: 90.660
+
+Epoch: 45
+Learning rate:  0.001
+Train ACC: 98.374
+Test ACC: 91.620
+
+Epoch: 46
+Learning rate:  0.001
+Train ACC: 98.322
+Test ACC: 91.790
+
+Epoch: 47
+Learning rate:  0.001
+Train ACC: 98.348
+Test ACC: 91.280
+
+Epoch: 48
+Learning rate:  0.001
+Train ACC: 98.392
+Test ACC: 91.990
+
+Epoch: 49
+Learning rate:  0.001
+Train ACC: 98.484
+Test ACC: 91.410
+==> Preparing data..
+Files already downloaded and verified
+Files already downloaded and verified
+==> Building model..
+
+Epoch: 0
+Learning rate:  0.001
+Train ACC: 46.014
+Test ACC: 45.560
+
+Epoch: 1
+Learning rate:  0.001
+Train ACC: 63.042
+Test ACC: 67.770
+
+Epoch: 2
+Learning rate:  0.001
+Train ACC: 71.006
+Test ACC: 65.590
+
+Epoch: 3
+Learning rate:  0.001
+Train ACC: 76.258
+Test ACC: 69.580
+
+Epoch: 4
+Learning rate:  0.001
+Train ACC: 79.564
+Test ACC: 77.450
+
+Epoch: 5
+Learning rate:  0.001
+Train ACC: 82.412
+Test ACC: 76.310
+
+Epoch: 6
+Learning rate:  0.001
+Train ACC: 84.038
+Test ACC: 76.060
+
+Epoch: 7
+Learning rate:  0.001
+Train ACC: 85.702
+Test ACC: 84.310
+
+Epoch: 8
+Learning rate:  0.001
+Train ACC: 87.104
+Test ACC: 82.800
+
+Epoch: 9
+Learning rate:  0.001
+Train ACC: 87.924
+Test ACC: 85.480
+
+Epoch: 10
+Learning rate:  0.001
+Train ACC: 88.874
+Test ACC: 86.650
+
+Epoch: 11
+Learning rate:  0.001
+Train ACC: 89.586
+Test ACC: 84.980
+
+Epoch: 12
+Learning rate:  0.001
+Train ACC: 90.628
+Test ACC: 87.080
+
+Epoch: 13
+Learning rate:  0.001
+Train ACC: 91.156
+Test ACC: 84.360
+
+Epoch: 14
+Learning rate:  0.001
+Train ACC: 91.582
+Test ACC: 88.250
+
+Epoch: 15
+Learning rate:  0.001
+Train ACC: 92.190
+Test ACC: 88.840
+
+Epoch: 16
+Learning rate:  0.001
+Train ACC: 92.782
+Test ACC: 85.430
+
+Epoch: 17
+Learning rate:  0.001
+Train ACC: 93.328
+Test ACC: 87.460
+
+Epoch: 18
+Learning rate:  0.001
+Train ACC: 93.728
+Test ACC: 89.790
+
+Epoch: 19
+Learning rate:  0.001
+Train ACC: 94.082
+Test ACC: 88.090
+
+Epoch: 20
+Learning rate:  0.001
+Train ACC: 94.490
+Test ACC: 89.810
+
+Epoch: 21
+Learning rate:  0.001
+Train ACC: 94.740
+Test ACC: 90.650
+
+Epoch: 22
+Learning rate:  0.001
+Train ACC: 94.896
+Test ACC: 90.320
+
+Epoch: 23
+Learning rate:  0.001
+Train ACC: 95.340
+Test ACC: 90.090
+
+Epoch: 24
+Learning rate:  0.001
+Train ACC: 95.770
+Test ACC: 90.240
+
+Epoch: 25
+Learning rate:  0.001
+Train ACC: 95.946
+Test ACC: 89.860
+
+Epoch: 26
+Learning rate:  0.001
+Train ACC: 96.032
+Test ACC: 90.440
+
+Epoch: 27
+Learning rate:  0.001
+Train ACC: 96.356
+Test ACC: 90.460
+
+Epoch: 28
+Learning rate:  0.001
+Train ACC: 96.544
+Test ACC: 89.530
+
+Epoch: 29
+Learning rate:  0.001
+Train ACC: 96.620
+Test ACC: 90.710
+
+Epoch: 30
+Learning rate:  0.001
+Train ACC: 96.870
+Test ACC: 89.890
+
+Epoch: 31
+Learning rate:  0.001
+Train ACC: 97.036
+Test ACC: 89.360
+
+Epoch: 32
+Learning rate:  0.001
+Train ACC: 97.270
+Test ACC: 91.280
+
+Epoch: 33
+Learning rate:  0.001
+Train ACC: 97.238
+Test ACC: 90.810
+
+Epoch: 34
+Learning rate:  0.001
+Train ACC: 97.568
+Test ACC: 90.790
+
+Epoch: 35
+Learning rate:  0.001
+Train ACC: 97.672
+Test ACC: 90.350
+
+Epoch: 36
+Learning rate:  0.001
+Train ACC: 97.634
+Test ACC: 90.330
+
+Epoch: 37
+Learning rate:  0.001
+Train ACC: 97.772
+Test ACC: 91.030
+
+Epoch: 38
+Learning rate:  0.001
+Train ACC: 97.838
+Test ACC: 90.460
+
+Epoch: 39
+Learning rate:  0.001
+Train ACC: 97.900
+Test ACC: 90.030
+
+Epoch: 40
+Learning rate:  0.001
+Train ACC: 97.908
+Test ACC: 91.690
+
+Epoch: 41
+Learning rate:  0.001
+Train ACC: 97.998
+Test ACC: 90.200
+
+Epoch: 42
+Learning rate:  0.001
+Train ACC: 98.098
+Test ACC: 91.290
+
+Epoch: 43
+Learning rate:  0.001
+Train ACC: 98.142
+Test ACC: 91.220
+
+Epoch: 44
+Learning rate:  0.001
+Train ACC: 98.346
+Test ACC: 91.220
+
+Epoch: 45
+Learning rate:  0.001
+Train ACC: 98.258
+Test ACC: 90.700
+
+Epoch: 46
+Learning rate:  0.001
+Train ACC: 98.276
+Test ACC: 91.310
+
+Epoch: 47
+Learning rate:  0.001
+Train ACC: 98.374
+Test ACC: 91.590
+
+Epoch: 48
+Learning rate:  0.001
+Train ACC: 98.490
+Test ACC: 91.390
+
+Epoch: 49
+Learning rate:  0.001
+Train ACC: 98.494
+Test ACC: 90.650
+==> Preparing data..
+Files already downloaded and verified
+Files already downloaded and verified
+==> Building model..
+
+Epoch: 0
+Learning rate:  0.001
+Train ACC: 45.908
+Test ACC: 45.780
+
+Epoch: 1
+Learning rate:  0.001
+Train ACC: 63.664
+Test ACC: 63.090
+
+Epoch: 2
+Learning rate:  0.001
+Train ACC: 72.172
+Test ACC: 69.020
+
+Epoch: 3
+Learning rate:  0.001
+Train ACC: 77.574
+Test ACC: 75.350
+
+Epoch: 4
+Learning rate:  0.001
+Train ACC: 80.810
+Test ACC: 77.830
+
+Epoch: 5
+Learning rate:  0.001
+Train ACC: 83.174
+Test ACC: 81.480
+
+Epoch: 6
+Learning rate:  0.001
+Train ACC: 84.948
+Test ACC: 82.200
+
+Epoch: 7
+Learning rate:  0.001
+Train ACC: 86.338
+Test ACC: 83.710
+
+Epoch: 8
+Learning rate:  0.001
+Train ACC: 87.544
+Test ACC: 84.710
+
+Epoch: 9
+Learning rate:  0.001
+Train ACC: 88.656
+Test ACC: 86.110
+
+Epoch: 10
+Learning rate:  0.001
+Train ACC: 89.406
+Test ACC: 86.060
+
+Epoch: 11
+Learning rate:  0.001
+Train ACC: 90.194
+Test ACC: 86.820
+
+Epoch: 12
+Learning rate:  0.001
+Train ACC: 90.944
+Test ACC: 87.160
+
+Epoch: 13
+Learning rate:  0.001
+Train ACC: 91.546
+Test ACC: 87.730
+
+Epoch: 14
+Learning rate:  0.001
+Train ACC: 92.098
+Test ACC: 86.230
+
+Epoch: 15
+Learning rate:  0.001
+Train ACC: 92.634
+Test ACC: 88.070
+
+Epoch: 16
+Learning rate:  0.001
+Train ACC: 93.194
+Test ACC: 88.280
+
+Epoch: 17
+Learning rate:  0.001
+Train ACC: 93.646
+Test ACC: 89.670
+
+Epoch: 18
+Learning rate:  0.001
+Train ACC: 93.994
+Test ACC: 88.180
+
+Epoch: 19
+Learning rate:  0.001
+Train ACC: 94.308
+Test ACC: 89.830
+
+Epoch: 20
+Learning rate:  0.001
+Train ACC: 94.640
+Test ACC: 90.430
+
+Epoch: 21
+Learning rate:  0.001
+Train ACC: 94.880
+Test ACC: 90.030
+
+Epoch: 22
+Learning rate:  0.001
+Train ACC: 95.366
+Test ACC: 90.630
+
+Epoch: 23
+Learning rate:  0.001
+Train ACC: 95.578
+Test ACC: 90.000
+
+Epoch: 24
+Learning rate:  0.001
+Train ACC: 95.820
+Test ACC: 89.700
+
+Epoch: 25
+Learning rate:  0.001
+Train ACC: 96.082
+Test ACC: 89.360
+
+Epoch: 26
+Learning rate:  0.001
+Train ACC: 96.410
+Test ACC: 90.040
+
+Epoch: 27
+Learning rate:  0.001
+Train ACC: 96.534
+Test ACC: 90.940
+
+Epoch: 28
+Learning rate:  0.001
+Train ACC: 96.656
+Test ACC: 90.080
+
+Epoch: 29
+Learning rate:  0.001
+Train ACC: 96.882
+Test ACC: 90.220
+
+Epoch: 30
+Learning rate:  0.001
+Train ACC: 96.970
+Test ACC: 90.770
+
+Epoch: 31
+Learning rate:  0.001
+Train ACC: 97.228
+Test ACC: 90.500
+
+Epoch: 32
+Learning rate:  0.001
+Train ACC: 97.358
+Test ACC: 90.820
+
+Epoch: 33
+Learning rate:  0.001
+Train ACC: 97.416
+Test ACC: 90.340
+
+Epoch: 34
+Learning rate:  0.001
+Train ACC: 97.530
+Test ACC: 90.860
+
+Epoch: 35
+Learning rate:  0.001
+Train ACC: 97.614
+Test ACC: 91.030
+
+Epoch: 36
+Learning rate:  0.001
+Train ACC: 97.668
+Test ACC: 91.490
+
+Epoch: 37
+Learning rate:  0.001
+Train ACC: 97.892
+Test ACC: 91.100
+
+Epoch: 38
+Learning rate:  0.001
+Train ACC: 97.858
+Test ACC: 91.120
+
+Epoch: 39
+Learning rate:  0.001
+Train ACC: 98.018
+Test ACC: 91.250
+
+Epoch: 40
+Learning rate:  0.001
+Train ACC: 98.108
+Test ACC: 91.260
+
+Epoch: 41
+Learning rate:  0.001
+Train ACC: 98.056
+Test ACC: 90.790
+
+Epoch: 42
+Learning rate:  0.001
+Train ACC: 98.168
+Test ACC: 91.460
+
+Epoch: 43
+Learning rate:  0.001
+Train ACC: 98.200
+Test ACC: 91.370
+
+Epoch: 44
+Learning rate:  0.001
+Train ACC: 98.332
+Test ACC: 90.670
+
+Epoch: 45
+Learning rate:  0.001
+Train ACC: 98.240
+Test ACC: 91.050
+
+Epoch: 46
+Learning rate:  0.001
+Train ACC: 98.446
+Test ACC: 91.310
+
+Epoch: 47
+Learning rate:  0.001
+Train ACC: 98.456
+Test ACC: 91.560
+
+Epoch: 48
+Learning rate:  0.001
+Train ACC: 98.528
+Test ACC: 91.010
+
+Epoch: 49
+Learning rate:  0.001
+Train ACC: 98.408
+Test ACC: 91.370
+==> Preparing data..
+Files already downloaded and verified
+Files already downloaded and verified
+==> Building model..
+
+Epoch: 0
+Learning rate:  0.001
+Train ACC: 46.596
+Test ACC: 49.920
+
+Epoch: 1
+Learning rate:  0.001
+Train ACC: 64.322
+Test ACC: 64.570
+
+Epoch: 2
+Learning rate:  0.001
+Train ACC: 72.300
+Test ACC: 63.790
+
+Epoch: 3
+Learning rate:  0.001
+Train ACC: 77.706
+Test ACC: 79.920
+
+Epoch: 4
+Learning rate:  0.001
+Train ACC: 80.924
+Test ACC: 81.390
+
+Epoch: 5
+Learning rate:  0.001
+Train ACC: 83.036
+Test ACC: 80.290
+
+Epoch: 6
+Learning rate:  0.001
+Train ACC: 84.786
+Test ACC: 82.870
+
+Epoch: 7
+Learning rate:  0.001
+Train ACC: 86.340
+Test ACC: 82.660
+
+Epoch: 8
+Learning rate:  0.001
+Train ACC: 87.426
+Test ACC: 83.640
+
+Epoch: 9
+Learning rate:  0.001
+Train ACC: 88.636
+Test ACC: 84.050
+
+Epoch: 10
+Learning rate:  0.001
+Train ACC: 89.448
+Test ACC: 86.320
+
+Epoch: 11
+Learning rate:  0.001
+Train ACC: 90.332
+Test ACC: 86.480
+
+Epoch: 12
+Learning rate:  0.001
+Train ACC: 90.900
+Test ACC: 86.080
+
+Epoch: 13
+Learning rate:  0.001
+Train ACC: 91.558
+Test ACC: 86.680
+
+Epoch: 14
+Learning rate:  0.001
+Train ACC: 92.112
+Test ACC: 88.970
+
+Epoch: 15
+Learning rate:  0.001
+Train ACC: 92.630
+Test ACC: 87.810
+
+Epoch: 16
+Learning rate:  0.001
+Train ACC: 93.224
+Test ACC: 89.090
+
+Epoch: 17
+Learning rate:  0.001
+Train ACC: 93.564
+Test ACC: 89.840
+
+Epoch: 18
+Learning rate:  0.001
+Train ACC: 93.986
+Test ACC: 89.070
+
+Epoch: 19
+Learning rate:  0.001
+Train ACC: 94.270
+Test ACC: 89.130
+
+Epoch: 20
+Learning rate:  0.001
+Train ACC: 94.656
+Test ACC: 90.060
+
+Epoch: 21
+Learning rate:  0.001
+Train ACC: 94.994
+Test ACC: 88.680
+
+Epoch: 22
+Learning rate:  0.001
+Train ACC: 95.396
+Test ACC: 89.590
+
+Epoch: 23
+Learning rate:  0.001
+Train ACC: 95.576
+Test ACC: 88.240
+
+Epoch: 24
+Learning rate:  0.001
+Train ACC: 95.964
+Test ACC: 89.890
+
+Epoch: 25
+Learning rate:  0.001
+Train ACC: 96.122
+Test ACC: 89.440
+
+Epoch: 26
+Learning rate:  0.001
+Train ACC: 96.242
+Test ACC: 89.050
+
+Epoch: 27
+Learning rate:  0.001
+Train ACC: 96.468
+Test ACC: 89.700
+
+Epoch: 28
+Learning rate:  0.001
+Train ACC: 96.722
+Test ACC: 90.980
+
+Epoch: 29
+Learning rate:  0.001
+Train ACC: 96.868
+Test ACC: 90.610
+
+Epoch: 30
+Learning rate:  0.001
+Train ACC: 97.130
+Test ACC: 90.090
+
+Epoch: 31
+Learning rate:  0.001
+Train ACC: 97.208
+Test ACC: 90.700
+
+Epoch: 32
+Learning rate:  0.001
+Train ACC: 97.272
+Test ACC: 90.960
+
+Epoch: 33
+Learning rate:  0.001
+Train ACC: 97.426
+Test ACC: 90.550
+
+Epoch: 34
+Learning rate:  0.001
+Train ACC: 97.518
+Test ACC: 90.330
+
+Epoch: 35
+Learning rate:  0.001
+Train ACC: 97.718
+Test ACC: 90.960
+
+Epoch: 36
+Learning rate:  0.001
+Train ACC: 97.756
+Test ACC: 91.110
+
+Epoch: 37
+Learning rate:  0.001
+Train ACC: 97.800
+Test ACC: 91.150
+
+Epoch: 38
+Learning rate:  0.001
+Train ACC: 98.034
+Test ACC: 89.980
+
+Epoch: 39
+Learning rate:  0.001
+Train ACC: 97.848
+Test ACC: 91.160
+
+Epoch: 40
+Learning rate:  0.001
+Train ACC: 98.150
+Test ACC: 91.080
+
+Epoch: 41
+Learning rate:  0.001
+Train ACC: 98.048
+Test ACC: 91.400
+
+Epoch: 42
+Learning rate:  0.001
+Train ACC: 98.278
+Test ACC: 91.240
+
+Epoch: 43
+Learning rate:  0.001
+Train ACC: 98.240
+Test ACC: 91.720
+
+Epoch: 44
+Learning rate:  0.001
+Train ACC: 98.296
+Test ACC: 91.300
+
+Epoch: 45
+Learning rate:  0.001
+Train ACC: 98.364
+Test ACC: 90.800
+
+Epoch: 46
+Learning rate:  0.001
+Train ACC: 98.330
+Test ACC: 91.060
+
+Epoch: 47
+Learning rate:  0.001
+Train ACC: 98.430
+Test ACC: 91.120
+
+Epoch: 48
+Learning rate:  0.001
+Train ACC: 98.396
+Test ACC: 91.510
+
+Epoch: 49
+Learning rate:  0.001
+Train ACC: 98.540
+Test ACC: 90.860
+==> Preparing data..
+Files already downloaded and verified
+Files already downloaded and verified
+==> Building model..
+
+Epoch: 0
+Learning rate:  0.001
+Train ACC: 46.094
+Test ACC: 51.060
+
+Epoch: 1
+Learning rate:  0.001
+Train ACC: 63.822
+Test ACC: 64.410
+
+Epoch: 2
+Learning rate:  0.001
+Train ACC: 72.662
+Test ACC: 70.170
+
+Epoch: 3
+Learning rate:  0.001
+Train ACC: 77.866
+Test ACC: 66.390
+
+Epoch: 4
+Learning rate:  0.001
+Train ACC: 81.254
+Test ACC: 77.600
+
+Epoch: 5
+Learning rate:  0.001
+Train ACC: 83.276
+Test ACC: 80.500
+
+Epoch: 6
+Learning rate:  0.001
+Train ACC: 85.440
+Test ACC: 82.170
+
+Epoch: 7
+Learning rate:  0.001
+Train ACC: 86.676
+Test ACC: 84.660
+
+Epoch: 8
+Learning rate:  0.001
+Train ACC: 87.618
+Test ACC: 84.220
+
+Epoch: 9
+Learning rate:  0.001
+Train ACC: 88.838
+Test ACC: 87.030
+
+Epoch: 10
+Learning rate:  0.001
+Train ACC: 89.434
+Test ACC: 86.620
+
+Epoch: 11
+Learning rate:  0.001
+Train ACC: 90.440
+Test ACC: 87.290
+
+Epoch: 12
+Learning rate:  0.001
+Train ACC: 91.046
+Test ACC: 85.560
+
+Epoch: 13
+Learning rate:  0.001
+Train ACC: 91.564
+Test ACC: 86.730
+
+Epoch: 14
+Learning rate:  0.001
+Train ACC: 92.362
+Test ACC: 89.140
+
+Epoch: 15
+Learning rate:  0.001
+Train ACC: 92.648
+Test ACC: 86.890
+
+Epoch: 16
+Learning rate:  0.001
+Train ACC: 93.302
+Test ACC: 88.590
+
+Epoch: 17
+Learning rate:  0.001
+Train ACC: 93.800
+Test ACC: 87.790
+
+Epoch: 18
+Learning rate:  0.001
+Train ACC: 94.122
+Test ACC: 90.250
+
+Epoch: 19
+Learning rate:  0.001
+Train ACC: 94.454
+Test ACC: 90.120
+
+Epoch: 20
+Learning rate:  0.001
+Train ACC: 94.752
+Test ACC: 88.920
+
+Epoch: 21
+Learning rate:  0.001
+Train ACC: 95.130
+Test ACC: 90.010
+
+Epoch: 22
+Learning rate:  0.001
+Train ACC: 95.404
+Test ACC: 89.470
+
+Epoch: 23
+Learning rate:  0.001
+Train ACC: 95.784
+Test ACC: 90.300
+
+Epoch: 24
+Learning rate:  0.001
+Train ACC: 96.026
+Test ACC: 90.360
+
+Epoch: 25
+Learning rate:  0.001
+Train ACC: 96.242
+Test ACC: 90.820
+
+Epoch: 26
+Learning rate:  0.001
+Train ACC: 96.320
+Test ACC: 90.300
+
+Epoch: 27
+Learning rate:  0.001
+Train ACC: 96.588
+Test ACC: 90.250
+
+Epoch: 28
+Learning rate:  0.001
+Train ACC: 96.676
+Test ACC: 89.120
+
+Epoch: 29
+Learning rate:  0.001
+Train ACC: 96.908
+Test ACC: 89.820
+
+Epoch: 30
+Learning rate:  0.001
+Train ACC: 97.190
+Test ACC: 90.630
+
+Epoch: 31
+Learning rate:  0.001
+Train ACC: 97.144
+Test ACC: 90.670
+
+Epoch: 32
+Learning rate:  0.001
+Train ACC: 97.310
+Test ACC: 90.460
+
+Epoch: 33
+Learning rate:  0.001
+Train ACC: 97.536
+Test ACC: 90.670
+
+Epoch: 34
+Learning rate:  0.001
+Train ACC: 97.692
+Test ACC: 91.420
+
+Epoch: 35
+Learning rate:  0.001
+Train ACC: 97.684
+Test ACC: 91.170
+
+Epoch: 36
+Learning rate:  0.001
+Train ACC: 97.766
+Test ACC: 90.510
+
+Epoch: 37
+Learning rate:  0.001
+Train ACC: 97.792
+Test ACC: 90.720
+
+Epoch: 38
+Learning rate:  0.001
+Train ACC: 97.900
+Test ACC: 90.960
+
+Epoch: 39
+Learning rate:  0.001
+Train ACC: 97.990
+Test ACC: 90.950
+
+Epoch: 40
+Learning rate:  0.001
+Train ACC: 98.014
+Test ACC: 91.100
+
+Epoch: 41
+Learning rate:  0.001
+Train ACC: 98.128
+Test ACC: 91.430
+
+Epoch: 42
+Learning rate:  0.001
+Train ACC: 98.210
+Test ACC: 91.310
+
+Epoch: 43
+Learning rate:  0.001
+Train ACC: 98.250
+Test ACC: 91.730
+
+Epoch: 44
+Learning rate:  0.001
+Train ACC: 98.340
+Test ACC: 91.730
+
+Epoch: 45
+Learning rate:  0.001
+Train ACC: 98.420
+Test ACC: 91.530
+
+Epoch: 46
+Learning rate:  0.001
+Train ACC: 98.446
+Test ACC: 90.800
+
+Epoch: 47
+Learning rate:  0.001
+Train ACC: 98.554
+Test ACC: 89.910
+
+Epoch: 48
+Learning rate:  0.001
+Train ACC: 98.542
+Test ACC: 90.960
+
+Epoch: 49
+Learning rate:  0.001
+Train ACC: 98.610
+Test ACC: 91.640
